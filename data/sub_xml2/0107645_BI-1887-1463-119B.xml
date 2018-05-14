@@ -1,0 +1,33 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:BI-1887-1463-119B</identifier>
+		<datestamp>2012-10-26T16:01:44Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=BI-1887-1463-119B</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/BI-1887-1463-119B</dc:format>
+			<dc:identifier>BI-1887-1463-119B</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.477381</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1651-02-12 -  1651-02-12</dc:date>
+			<dc:format>blad: hoogte 183 MMmmmm</dc:format>
+			<dc:format>blad: breedte 156 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>materiaal: pen (veer)</dc:format>
+			<dc:format>materiaal: inkt</dc:format>
+			<dc:format>materiaal: krijt</dc:format>
+			<dc:format>techniek: tekenen</dc:format>
+			<dc:format>techniek: penseel in bruin</dc:format>
+			<dc:format>techniek: penseel in zwart</dc:format>
+			<dc:creator>vermeld op object tekenaar: Borch, Harmen ter</dc:creator>
+			<dc:coverage>Zwolle</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Man die een mand draagt</dc:title>
+			<dc:contributor>Aankoop met steun van de Vereniging Rembrandt</dc:contributor>
+			<dc:relation>BI-1887-1463-119</dc:relation>
+		</oai_dc:dc>
+	</metadata>
+</record>

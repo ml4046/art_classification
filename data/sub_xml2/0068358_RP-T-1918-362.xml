@@ -1,0 +1,34 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1918-362</identifier>
+		<datestamp>2012-10-26T13:46:57Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1918-362</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1918-362</dc:format>
+			<dc:identifier>RP-T-1918-362</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.242252</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1799 -  1799</dc:date>
+			<dc:format>hoogte 600 MMmmmm</dc:format>
+			<dc:format>breedte 403 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: aquarelleren</dc:format>
+			<dc:format>techniek: zwart en rood krijt</dc:format>
+			<dc:format>techniek: penseel in kleuren</dc:format>
+			<dc:creator> tekenaar: Delfos, Abraham</dc:creator>
+			<dc:coverage/>
+			<dc:creator> naar schilderij van: Rembrandt Harmensz. van Rijn</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>Portret van Nicolaas Ruts</dc:title>
+			<dc:coverage>vierde kwart 18e eeuw</dc:coverage>
+			<dc:subject>Ruts, Nicolaes</dc:subject>
+			<dc:subject>Iconclasscode: 61B2(RUTS, NICOLAAS)11</dc:subject>
+			<dc:contributor>Schenking van de heer C.P.D. Pape</dc:contributor>
+		</oai_dc:dc>
+	</metadata>
+</record>

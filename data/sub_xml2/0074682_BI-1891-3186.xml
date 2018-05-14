@@ -1,0 +1,94 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:BI-1891-3186</identifier>
+		<datestamp>2012-10-26T14:11:00Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=BI-1891-3186</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/BI-1891-3186</dc:format>
+			<dc:identifier>BI-1891-3186</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.312962</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1732-06-10 -  1732-07-04</dc:date>
+			<dc:description>Schetsboek met 52 bladen met schetsen van kastelen, buitenhuizen, kerken en dorpen in Nederland en Duitsland. Boekband van perkament met steekflap</dc:description>
+			<dc:format>schetsboek: hoogte 127 MMmmmm</dc:format>
+			<dc:format>schetsboek: breedte 209 MMmmmm</dc:format>
+			<dc:format>schetsboek: diepte 20 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: pen in bruin</dc:format>
+			<dc:format>techniek: pen in zwart</dc:format>
+			<dc:format>techniek: penseel in grijs</dc:format>
+			<dc:format>techniek: penseel in bruin</dc:format>
+			<dc:creator> tekenaar: Haen, Abraham de (II)</dc:creator>
+			<dc:coverage>Nederland</dc:coverage>
+			<dc:creator> tekenaar: Haen, Abraham de (II)</dc:creator>
+			<dc:coverage>Duitsland</dc:coverage>
+			<dc:creator>verworpen toeschrijving tekenaar: Pronk, Cornelis</dc:creator>
+			<dc:coverage/>
+			<dc:type>schetsboek</dc:type>
+			<dc:type>tekening</dc:type>
+			<dc:title>Schetsboek met 52 bladen met schetsen van kastelen, buitenhuizen, kerken en dorpen in Nederland en Duitsland</dc:title>
+			<dc:coverage>tweede kwart 18e eeuw</dc:coverage>
+			<dc:subject>Iconclasscode: 25I12</dc:subject>
+			<dc:subject>Iconclasscode: 25I14</dc:subject>
+			<dc:subject>Iconclasscode: 25I3</dc:subject>
+			<dc:subject>Iconclasscode: 25I9</dc:subject>
+			<dc:subject>Iconclasscode: 41A12</dc:subject>
+			<dc:relation>BI-1891-3186-1</dc:relation>
+			<dc:relation>BI-1891-3186-2</dc:relation>
+			<dc:relation>BI-1891-3186-3</dc:relation>
+			<dc:relation>BI-1891-3186-4</dc:relation>
+			<dc:relation>BI-1891-3186-5</dc:relation>
+			<dc:relation>BI-1891-3186-6</dc:relation>
+			<dc:relation>BI-1891-3186-7</dc:relation>
+			<dc:relation>BI-1891-3186-8</dc:relation>
+			<dc:relation>BI-1891-3186-9</dc:relation>
+			<dc:relation>BI-1891-3186-10</dc:relation>
+			<dc:relation>BI-1891-3186-11</dc:relation>
+			<dc:relation>BI-1891-3186-12</dc:relation>
+			<dc:relation>BI-1891-3186-13</dc:relation>
+			<dc:relation>BI-1891-3186-13A</dc:relation>
+			<dc:relation>BI-1891-3186-14</dc:relation>
+			<dc:relation>BI-1891-3186-15</dc:relation>
+			<dc:relation>BI-1891-3186-16</dc:relation>
+			<dc:relation>BI-1891-3186-17</dc:relation>
+			<dc:relation>BI-1891-3186-19</dc:relation>
+			<dc:relation>BI-1891-3186-20</dc:relation>
+			<dc:relation>BI-1891-3186-21</dc:relation>
+			<dc:relation>BI-1891-3186-22</dc:relation>
+			<dc:relation>BI-1891-3186-23</dc:relation>
+			<dc:relation>BI-1891-3186-24</dc:relation>
+			<dc:relation>BI-1891-3186-25</dc:relation>
+			<dc:relation>BI-1891-3186-26</dc:relation>
+			<dc:relation>BI-1891-3186-27</dc:relation>
+			<dc:relation>BI-1891-3186-28</dc:relation>
+			<dc:relation>BI-1891-3186-29</dc:relation>
+			<dc:relation>BI-1891-3186-30</dc:relation>
+			<dc:relation>BI-1891-3186-31</dc:relation>
+			<dc:relation>BI-1891-3186-32</dc:relation>
+			<dc:relation>BI-1891-3186-33</dc:relation>
+			<dc:relation>BI-1891-3186-34</dc:relation>
+			<dc:relation>BI-1891-3186-35</dc:relation>
+			<dc:relation>BI-1891-3186-36</dc:relation>
+			<dc:relation>BI-1891-3186-37</dc:relation>
+			<dc:relation>BI-1891-3186-38</dc:relation>
+			<dc:relation>BI-1891-3186-39</dc:relation>
+			<dc:relation>BI-1891-3186-40</dc:relation>
+			<dc:relation>BI-1891-3186-41</dc:relation>
+			<dc:relation>BI-1891-3186-42</dc:relation>
+			<dc:relation>BI-1891-3186-43</dc:relation>
+			<dc:relation>BI-1891-3186-44</dc:relation>
+			<dc:relation>BI-1891-3186-45</dc:relation>
+			<dc:relation>BI-1891-3186-46</dc:relation>
+			<dc:relation>BI-1891-3186-47</dc:relation>
+			<dc:relation>BI-1891-3186-48</dc:relation>
+			<dc:relation>BI-1891-3186-49</dc:relation>
+			<dc:relation>BI-1891-3186-50</dc:relation>
+			<dc:relation>BI-1891-3186-51</dc:relation>
+			<dc:relation>BI-1891-3186-18</dc:relation>
+		</oai_dc:dc>
+	</metadata>
+</record>

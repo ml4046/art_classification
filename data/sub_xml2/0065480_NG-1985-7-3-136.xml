@@ -1,0 +1,30 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:NG-1985-7-3-136</identifier>
+		<datestamp>2012-10-26T13:35:34Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=NG-1985-7-3-136</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/NG-1985-7-3-136</dc:format>
+			<dc:identifier>NG-1985-7-3-136</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.231017</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1786-04-20 -  1787-03-15</dc:date>
+			<dc:description>De berg Duivelspiek bij Kaapstad, gezien vanuit de Lutherse kerk.</dc:description>
+			<dc:format>hoogte 214 MMmmmm</dc:format>
+			<dc:format>breedte 327 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: penseel in grijs</dc:format>
+			<dc:format>techniek: potlood</dc:format>
+			<dc:creator> tekenaar: Brandes, Jan</dc:creator>
+			<dc:coverage>Kaapstad</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Duivelspiek bij Kaapstad  ()</dc:title>
+			<dc:title>De Duijvels Berg aan de Caap de Goede Hoop te zien van de Lutherse kerk  (titel op object)</dc:title>
+			<dc:coverage>vierde kwart 18e eeuw</dc:coverage>
+		</oai_dc:dc>
+	</metadata>
+</record>

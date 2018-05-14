@@ -1,0 +1,28 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1930-30</identifier>
+		<datestamp>2012-10-26T10:14:55Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1930-30</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1930-30</dc:format>
+			<dc:identifier>RP-T-1930-30</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.28607</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1658 -  1662</dc:date>
+			<dc:format>hoogte 167 MMmmmm</dc:format>
+			<dc:format>breedte 130 MMmmmm</dc:format>
+			<dc:format>materiaal: kardoespapier</dc:format>
+			<dc:format>techniek: pen in bruin</dc:format>
+			<dc:creator>school van tekenaar: Rembrandt Harmensz. van Rijn</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>De maaltijd te Emmaüs</dc:title>
+			<dc:coverage>derde kwart 17e eeuw</dc:coverage>
+			<dc:contributor>Schenking van de heer C. Hofstede de Groot, Den Haag</dc:contributor>
+		</oai_dc:dc>
+	</metadata>
+</record>

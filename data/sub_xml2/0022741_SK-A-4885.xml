@@ -1,0 +1,34 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:SK-A-4885</identifier>
+		<datestamp>2012-10-26T11:07:41Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=SK-A-4885</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/SK-A-4885</dc:format>
+			<dc:identifier>SK-A-4885</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.50214</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1633 -  1633</dc:date>
+			<dc:description>Portret van Johannes Wtenbogaert (1557-1644), Remonstrants predikant, op 76-jarige leeftijd. Staande, ten halven lijve, handschoenen in de rechterhand, de linkerhand op de borst. Rechts tegen de muur staat een opengeslagen boek, ervoor ligt een zwarte hoed met een brede rand.</dc:description>
+			<dc:format>doekmaat: hoogte 130 CMcmcm</dc:format>
+			<dc:format>doekmaat: breedte 103 CMcmcm</dc:format>
+			<dc:format>doekmaat: diepte 10 CMcmcm</dc:format>
+			<dc:format>materiaal: olieverf</dc:format>
+			<dc:format>materiaal: doek</dc:format>
+			<dc:creator> schilder: Rembrandt Harmensz. van Rijn</dc:creator>
+			<dc:coverage/>
+			<dc:type>schilderij</dc:type>
+			<dc:title>Portret van Johannes Wtenbogaert (1557-1644), Remonstrants predikant</dc:title>
+			<dc:coverage>tweede kwart 17e eeuw</dc:coverage>
+			<dc:subject>Wtenbogaert, Johannes</dc:subject>
+			<dc:subject>Iconclasscode: 11P341</dc:subject>
+			<dc:subject>Iconclasscode: 61B2</dc:subject>
+			<dc:subject>Iconclasscode: 49MM32</dc:subject>
+			<dc:contributor>Aankoop met steun van de Vereniging Rembrandt, mede dankzij het Prins Bernhard Fonds, het VSBfonds, de Rijksmuseum-Stichting, De Staat der Nederlanden en particulieren</dc:contributor>
+		</oai_dc:dc>
+	</metadata>
+</record>

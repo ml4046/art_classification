@@ -1,0 +1,32 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1888-A-1676</identifier>
+		<datestamp>2012-10-26T13:45:14Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1888-A-1676</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1888-A-1676</dc:format>
+			<dc:identifier>RP-T-1888-A-1676</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.240995</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1729-08-07 -  1729-08-07</dc:date>
+			<dc:format>hoogte 154 MMmmmm</dc:format>
+			<dc:format>breedte 200 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: pen in grijs</dc:format>
+			<dc:format>techniek: potlood</dc:format>
+			<dc:creator> tekenaar: Pronk, Cornelis</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>Gezicht op Breda</dc:title>
+			<dc:coverage>tweede kwart 18e eeuw</dc:coverage>
+			<dc:subject>Breda</dc:subject>
+			<dc:subject>Iconclasscode: 61E(BREDA)</dc:subject>
+			<dc:subject>Iconclasscode: 25I12</dc:subject>
+			<dc:subject>Iconclasscode: 11Q712</dc:subject>
+		</oai_dc:dc>
+	</metadata>
+</record>

@@ -1,0 +1,53 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:SK-C-5</identifier>
+		<datestamp>2012-10-26T09:51:18Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=SK-C-5</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/SK-C-5</dc:format>
+			<dc:identifier>SK-C-5</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.5216</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1642 -  1642</dc:date>
+			<dc:description>Het korporaalschap van kapitein Frans Banninck Cocq en luitenant Willem van Ruytenburch, bekend als de 'Nachtwacht'. Schutters van de kloveniersdoelen uit een poort naar buiten tredend. Op een schild aangebracht naast de poort staan de namen van de afgebeelde personen: Frans Banninck Cocq, heer van purmerlant en Ilpendam, Capiteijn Willem van Ruijtenburch van Vlaerdingen, heer van Vlaerdingen, Lu[ij]tenant, Jan Visscher Cornelisen Vaendrich, Rombout Kemp Sergeant, Reijnier Engelen Sergeant, Barent Harmansen, Jan Adriaensen Keyser, Elbert Willemsen, Jan Clasen Leydeckers, Jan Ockersen, Jan Pietersen bronchorst, Harman Iacobsen wormskerck, Jacob Dircksen de Roy, Jan vander heede, Walich Schellingwou, Jan brugman, Claes van Cruysbergen, Paulus Schoonhoven. De schutters zijn gewapend met lansen, musketten en hellebaarden. Rechts de tamboer met een grote trommel. Tussen de soldaten links staat een meisje met een dode kip om haar middel, rechts een blaffende hond. Linksboven de vaandrig met de uitgestoken vaandel.</dc:description>
+			<dc:format>hoogte 379.5 CMcmcm</dc:format>
+			<dc:format>breedte 453.5 CMcmcm</dc:format>
+			<dc:format>gewicht 337 KGkgkg</dc:format>
+			<dc:format>gewicht 170 KGkgkg</dc:format>
+			<dc:format>materiaal: doek</dc:format>
+			<dc:format>materiaal: olieverf</dc:format>
+			<dc:creator> schilder: Rembrandt Harmensz. van Rijn</dc:creator>
+			<dc:coverage/>
+			<dc:type>schilderij</dc:type>
+			<dc:title>Officieren en andere schutters van wijk II in Amsterdam onder leiding van kapitein Frans Banninck Cocq en luitenant Willem van Ruytenburch, bekend als de ‘Nachtwacht’  ()</dc:title>
+			<dc:title>Het korporaalschap van kapitein Frans Banninck Cocq en luitenant Willem van Ruytenburch, bekend als de 'Nachtwacht'  (voormalige titel)</dc:title>
+			<dc:coverage>tweede kwart 17e eeuw</dc:coverage>
+			<dc:subject>Banning Cocq, Frans</dc:subject>
+			<dc:subject>Ruytenburch, Willem van</dc:subject>
+			<dc:subject>Visscher Cornelisen, Jan</dc:subject>
+			<dc:subject>Kemp, Rombout</dc:subject>
+			<dc:subject>Engelen, Reijnier Janszn</dc:subject>
+			<dc:subject>Bolhamer, Barent Harmansen</dc:subject>
+			<dc:subject>Keijser, Jan Adriaensen</dc:subject>
+			<dc:subject>Willemsen, Elbert</dc:subject>
+			<dc:subject>Leijdeckers, Jan Claesen</dc:subject>
+			<dc:subject>Ockersen, Jan</dc:subject>
+			<dc:subject>Bronchorst, Jan Pietersen</dc:subject>
+			<dc:subject>Wormskerck, Harman Jacobsen</dc:subject>
+			<dc:subject>Roy, Jacob Dircksen de</dc:subject>
+			<dc:subject>Heede, Jan van der</dc:subject>
+			<dc:subject>Amsterdam</dc:subject>
+			<dc:subject>Iconclasscode: 45(+26)</dc:subject>
+			<dc:subject>Iconclasscode: 45C1</dc:subject>
+			<dc:subject>Iconclasscode: 48C7341</dc:subject>
+			<dc:subject>Iconclasscode: 31D11222</dc:subject>
+			<dc:subject>Iconclasscode: 45D12</dc:subject>
+			<dc:subject>Iconclasscode: 34B11</dc:subject>
+			<dc:contributor>Bruikleen van de gemeente Amsterdam</dc:contributor>
+		</oai_dc:dc>
+	</metadata>
+</record>

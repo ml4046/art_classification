@@ -1,0 +1,36 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1888-A-1688</identifier>
+		<datestamp>2012-10-26T13:45:15Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1888-A-1688</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1888-A-1688</dc:format>
+			<dc:identifier>RP-T-1888-A-1688</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.241008</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1729-08-11 -  1729-08-11</dc:date>
+			<dc:description>Het kasteel Bersselaar of Ter Aalst te Oosterhout. Verso: stadsmuur en bomen te Geertruidenberg; deel van RP-T-1888-A-1687.</dc:description>
+			<dc:format>hoogte 150 MMmmmm</dc:format>
+			<dc:format>breedte 195 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: pen in grijs</dc:format>
+			<dc:format>techniek: potlood</dc:format>
+			<dc:creator> tekenaar: Pronk, Cornelis</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>Het kasteel Bersselaar of Ter Aalst te Oosterhout</dc:title>
+			<dc:coverage>tweede kwart 18e eeuw</dc:coverage>
+			<dc:subject>Kasteel Ter Aalst</dc:subject>
+			<dc:subject>Kasteel Bersselaar</dc:subject>
+			<dc:subject>Iconclasscode: 61E(OOSTERHOUT)</dc:subject>
+			<dc:subject>Iconclasscode: 41A12</dc:subject>
+			<dc:subject>Iconclasscode: 41A16</dc:subject>
+			<dc:subject>Iconclasscode: 61F(BERSSELAAR)</dc:subject>
+			<dc:subject>Iconclasscode: 61F(TER AALST)</dc:subject>
+		</oai_dc:dc>
+	</metadata>
+</record>

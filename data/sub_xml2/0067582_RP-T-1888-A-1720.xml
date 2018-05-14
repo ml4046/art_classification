@@ -1,0 +1,32 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1888-A-1720</identifier>
+		<datestamp>2012-10-26T13:43:46Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1888-A-1720</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1888-A-1720</dc:format>
+			<dc:identifier>RP-T-1888-A-1720</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.238659</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1701 -  1759</dc:date>
+			<dc:description>Het gehucht De Tempel tussen Berkel-Rodenrijs en de Schie. Onder: schets, boven: uitgewerkte tekening.</dc:description>
+			<dc:format>hoogte 127 MMmmmm</dc:format>
+			<dc:format>breedte 202 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: pen in grijs</dc:format>
+			<dc:format>techniek: ondertekening in potlood</dc:format>
+			<dc:format>techniek: zwart krijt</dc:format>
+			<dc:creator> tekenaar: Pronk, Cornelis</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>De Tempel tussen Berkel-Rodenrijs en de Schie</dc:title>
+			<dc:subject>De Tempel</dc:subject>
+			<dc:subject>Iconclasscode: 61E(DE TEMPEL)</dc:subject>
+			<dc:subject>Iconclasscode: 25I21</dc:subject>
+		</oai_dc:dc>
+	</metadata>
+</record>

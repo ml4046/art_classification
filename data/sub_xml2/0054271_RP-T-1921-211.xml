@@ -1,0 +1,35 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1921-211</identifier>
+		<datestamp>2012-10-26T13:02:25Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1921-211</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1921-211</dc:format>
+			<dc:identifier>RP-T-1921-211</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.145118</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1713 -  1780</dc:date>
+			<dc:format>hoogte 329 MMmmmm</dc:format>
+			<dc:format>breedte 466 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: pen in grijs</dc:format>
+			<dc:format>techniek: penseel in grijs</dc:format>
+			<dc:format>techniek: potlood</dc:format>
+			<dc:creator> tekenaar: Beijer, Jan de</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>Pieterskerk te Utrecht met op de achtergrond de Dom</dc:title>
+			<dc:subject>Pieterskerk (Utrecht)</dc:subject>
+			<dc:subject>Dom (Utrecht)</dc:subject>
+			<dc:subject>Iconclasscode: 25I12</dc:subject>
+			<dc:subject>Iconclasscode: 61E(UTRECHT)</dc:subject>
+			<dc:subject>Iconclasscode: 61F(PIETERSKERK)</dc:subject>
+			<dc:subject>Iconclasscode: 11Q712</dc:subject>
+			<dc:contributor>Legaat van de heer J.G. de Groot Jamin, Amsterdam</dc:contributor>
+		</oai_dc:dc>
+	</metadata>
+</record>

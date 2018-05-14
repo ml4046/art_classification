@@ -1,0 +1,33 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1904-404</identifier>
+		<datestamp>2012-10-26T12:56:40Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1904-404</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1904-404</dc:format>
+			<dc:identifier>RP-T-1904-404</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.140397</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1775 -  1833</dc:date>
+			<dc:format>hoogte 207 MMmmmm</dc:format>
+			<dc:format>breedte 123 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>materiaal: waterverf</dc:format>
+			<dc:format>materiaal: potlood</dc:format>
+			<dc:format>techniek: aquarelleren</dc:format>
+			<dc:creator> tekenaar: Bernard, Jean</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>Tros witte druiven</dc:title>
+			<dc:coverage>vierde kwart 18e eeuw</dc:coverage>
+			<dc:coverage>eerste kwart 19e eeuw</dc:coverage>
+			<dc:coverage>tweede kwart 19e eeuw</dc:coverage>
+			<dc:subject>Iconclasscode: 47I4222</dc:subject>
+			<dc:contributor>Schenking van de erven van de heer J. Bernard van IJsseldijk</dc:contributor>
+		</oai_dc:dc>
+	</metadata>
+</record>

@@ -1,0 +1,31 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:NG-1985-7-1-120</identifier>
+		<datestamp>2012-10-26T13:05:08Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=NG-1985-7-1-120</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/NG-1985-7-1-120</dc:format>
+			<dc:identifier>NG-1985-7-1-120</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.150012</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1770 -  1787-10-28</dc:date>
+			<dc:description>Kleurtekening van een bruinige Hollandse vogel op een tak. Met opschrift.</dc:description>
+			<dc:format>hoogte 195 MMmmmm</dc:format>
+			<dc:format>breedte 155 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: penseel in kleuren</dc:format>
+			<dc:format>techniek: potlood</dc:format>
+			<dc:creator> tekenaar: Brandes, Jan</dc:creator>
+			<dc:coverage>Nederland</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Hollandse vogel</dc:title>
+			<dc:coverage>derde kwart 18e eeuw</dc:coverage>
+			<dc:coverage>vierde kwart 18e eeuw</dc:coverage>
+			<dc:relation>NG-1985-7-1</dc:relation>
+		</oai_dc:dc>
+	</metadata>
+</record>

@@ -1,0 +1,35 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1888-A-1728</identifier>
+		<datestamp>2012-10-26T13:43:49Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1888-A-1728</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1888-A-1728</dc:format>
+			<dc:identifier>RP-T-1888-A-1728</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.238696</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1701 -  1759</dc:date>
+			<dc:format>hoogte 163 MMmmmm</dc:format>
+			<dc:format>breedte 155 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: pen in grijs</dc:format>
+			<dc:format>techniek: penseel in grijs</dc:format>
+			<dc:creator> tekenaar: Pronk, Cornelis</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>De Hoofdpoort op het Oude Hoofd te Rotterdam  ()</dc:title>
+			<dc:title>Witt in Oostpoort van t oude hooft te Rot:  (titel op object)</dc:title>
+			<dc:subject>'t Oude Hoofd (Rotterdam)</dc:subject>
+			<dc:subject>Hoofdpoort (Rotterdam)</dc:subject>
+			<dc:subject>Iconclasscode: 61F(OUDE HOOFD)</dc:subject>
+			<dc:subject>Iconclasscode: 61E(ROTTERDAM)</dc:subject>
+			<dc:subject>Iconclasscode: 25I145</dc:subject>
+			<dc:subject>Iconclasscode: 46C223</dc:subject>
+			<dc:subject>Iconclasscode: 61F(OOSTPOORT)</dc:subject>
+		</oai_dc:dc>
+	</metadata>
+</record>

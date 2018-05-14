@@ -1,0 +1,29 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:NG-1985-7-3-125</identifier>
+		<datestamp>2012-10-26T13:35:28Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=NG-1985-7-3-125</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/NG-1985-7-3-125</dc:format>
+			<dc:identifier>NG-1985-7-3-125</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.230959</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1785-10-10 -  1785-12-30</dc:date>
+			<dc:description>Interieur van een grot met een beeld van de liggende Boeddha van vijf manslengten lang en één manslengte hoog en enkele Singalezen in lendedoeken. Met opschrift.</dc:description>
+			<dc:format>hoogte 206 MMmmmm</dc:format>
+			<dc:format>breedte 325 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: penseel in kleuren</dc:format>
+			<dc:format>techniek: potlood</dc:format>
+			<dc:creator>eigenhandig gesigneerd tekenaar: Brandes, Jan</dc:creator>
+			<dc:coverage>Colombo</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Liggende boeddha in Singalees heiligdom</dc:title>
+			<dc:coverage>vierde kwart 18e eeuw</dc:coverage>
+		</oai_dc:dc>
+	</metadata>
+</record>

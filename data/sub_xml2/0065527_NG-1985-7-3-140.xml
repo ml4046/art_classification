@@ -1,0 +1,30 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:NG-1985-7-3-140</identifier>
+		<datestamp>2012-10-26T13:35:42Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=NG-1985-7-3-140</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/NG-1985-7-3-140</dc:format>
+			<dc:identifier>NG-1985-7-3-140</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.231102</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1779 -  1785</dc:date>
+			<dc:description>Stadsplan van Batavia met Duitse legenda. Naar een oude kaart van voor 1743-45 (afbraak kasteelmuur tussen Diamant en Robijn. Ook de lutherse kerk (voltooid 1749) staat er nog niet op. Brandes heeft deze met pen erbij getekend.</dc:description>
+			<dc:format>hoogte 240 MMmmmm</dc:format>
+			<dc:format>breedte 317 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: potlood</dc:format>
+			<dc:format>techniek: pen in zwart</dc:format>
+			<dc:format>techniek: schrijven</dc:format>
+			<dc:creator> tekenaar: Brandes, Jan</dc:creator>
+			<dc:coverage>Batavia</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Plattegrond van Batavia</dc:title>
+			<dc:coverage>vierde kwart 18e eeuw</dc:coverage>
+		</oai_dc:dc>
+	</metadata>
+</record>

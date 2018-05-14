@@ -1,0 +1,32 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1887-A-873</identifier>
+		<datestamp>2012-10-26T14:47:20Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1887-A-873</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1887-A-873</dc:format>
+			<dc:identifier>RP-T-1887-A-873</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.367347</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1609 -  1609</dc:date>
+			<dc:format>hoogte 138 MMmmmm</dc:format>
+			<dc:format>breedte 265 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>materiaal: inkt</dc:format>
+			<dc:format>materiaal: pen (veer)</dc:format>
+			<dc:format>techniek: pen in inkt</dc:format>
+			<dc:format>techniek: tekenen</dc:format>
+			<dc:creator>eigenhandig gesigneerd tekenaar: Borch, Gerard ter (I)</dc:creator>
+			<dc:coverage>Rome</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Landschap met de Ponte Milvio, buiten Rome</dc:title>
+			<dc:coverage>eerste kwart 17e eeuw</dc:coverage>
+			<dc:subject>Rome</dc:subject>
+			<dc:contributor>Aankoop met steun van de Vereniging Rembrandt</dc:contributor>
+		</oai_dc:dc>
+	</metadata>
+</record>

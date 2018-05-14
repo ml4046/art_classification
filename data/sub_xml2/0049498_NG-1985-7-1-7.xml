@@ -1,0 +1,30 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:NG-1985-7-1-7</identifier>
+		<datestamp>2012-10-26T12:48:57Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=NG-1985-7-1-7</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/NG-1985-7-1-7</dc:format>
+			<dc:identifier>NG-1985-7-1-7</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.131490</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1785-08-26 -  1786-04-20</dc:date>
+			<dc:description>Deze tekening hoort ter rechterzijde van NG-1985-7-1-3. Zichtbaar zijn een stuk van het halfdek, een kist, een raam van de officiersverblijven en een stuk van de zeilen. Het 20e eeuwse bijschrift is Zweeds en verwijst naar bovennoemd nummer.</dc:description>
+			<dc:format>hoogte 195 MMmmmm</dc:format>
+			<dc:format>breedte 155 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: penseel in kleuren</dc:format>
+			<dc:format>techniek: potlood</dc:format>
+			<dc:creator> tekenaar: Brandes, Jan</dc:creator>
+			<dc:coverage>Zeeroute Batavia - Amsterdam</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Deel van het scheepsdek van een VOC-schip</dc:title>
+			<dc:coverage>vierde kwart 18e eeuw</dc:coverage>
+			<dc:relation>NG-1985-7-1</dc:relation>
+		</oai_dc:dc>
+	</metadata>
+</record>

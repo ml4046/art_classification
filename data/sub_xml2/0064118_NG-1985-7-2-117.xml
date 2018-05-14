@@ -1,0 +1,30 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:NG-1985-7-2-117</identifier>
+		<datestamp>2012-10-26T13:32:08Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=NG-1985-7-2-117</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/NG-1985-7-2-117</dc:format>
+			<dc:identifier>NG-1985-7-2-117</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.225350</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1786-12 -  1786-12</dc:date>
+			<dc:description>Kleurtekening over drie pagina's van een bergmassief en de weg langs een kloof die daar overheen voert. Links het wachthuisje, midden de heuvel met rode klei. De bergen zijn grijswit van boven, van marmer of albast volgens Brandes. Met opschrift.</dc:description>
+			<dc:format>hoogte 195 MMmmmm</dc:format>
+			<dc:format>breedte 465 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: penseel in kleuren</dc:format>
+			<dc:format>techniek: potlood</dc:format>
+			<dc:creator> tekenaar: Brandes, Jan</dc:creator>
+			<dc:coverage>Zuid-Afrika</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Pad naar de Overberg aan de Caap</dc:title>
+			<dc:coverage>vierde kwart 18e eeuw</dc:coverage>
+			<dc:relation>NG-1985-7-2</dc:relation>
+		</oai_dc:dc>
+	</metadata>
+</record>

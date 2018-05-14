@@ -1,0 +1,28 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1884-A-413</identifier>
+		<datestamp>2012-10-26T16:07:45Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1884-A-413</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1884-A-413</dc:format>
+			<dc:identifier>RP-T-1884-A-413</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.490374</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1725 -  1725</dc:date>
+			<dc:format>hoogte 243 MMmmmm</dc:format>
+			<dc:format>breedte 386 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: pen in bruin</dc:format>
+			<dc:format>techniek: penseel in bruin</dc:format>
+			<dc:creator>vermeld op object tekenaar: Pronk, Cornelis</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>Gezicht op het huis Assumburgh bij Beverwijk  ()</dc:title>
+			<dc:title>Assumburg  (titel op object)</dc:title>
+		</oai_dc:dc>
+	</metadata>
+</record>

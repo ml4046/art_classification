@@ -1,0 +1,36 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:SK-A-404</identifier>
+		<datestamp>2012-10-26T09:53:17Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=SK-A-404</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/SK-A-404</dc:format>
+			<dc:identifier>SK-A-404</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.6153</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>ca. 1653 - ca. 1655</dc:date>
+			<dc:description>Galante konversatie; bekend als 'De vaderlijke vermaning'. Interieur met een staande vrouw die wordt toegesproken door een zittende officier. Naast hem een zittende vrouw die uit een glas drinkt. Rechts een hond. Op de tafel een kandelaar met kaars en een opengeklapte spiegel.</dc:description>
+			<dc:format>: hoogte 71 CMcmcm</dc:format>
+			<dc:format>: breedte 73 CMcmcm</dc:format>
+			<dc:format>lijst: hoogte 85 CMcmcm</dc:format>
+			<dc:format>lijst: breedte 87 CMcmcm</dc:format>
+			<dc:format>lijst: dikte 8.5 CMcmcm</dc:format>
+			<dc:format>materiaal: doek</dc:format>
+			<dc:format>materiaal: olieverf</dc:format>
+			<dc:creator> schilder: Borch, Gerard ter (II)</dc:creator>
+			<dc:coverage/>
+			<dc:type>schilderij</dc:type>
+			<dc:title>Interieur met drie figuren die met elkaar in gesprek zijn; bekend als 'De vaderlijke vermaning'  ()</dc:title>
+			<dc:title>Galante konversatie; bekend als 'De vaderlijke vermaning'.  (voormalige titel)</dc:title>
+			<dc:coverage>derde kwart 17e eeuw</dc:coverage>
+			<dc:subject>Iconclasscode: 33A35</dc:subject>
+			<dc:subject>Iconclasscode: 41C12</dc:subject>
+			<dc:subject>Iconclasscode: 45D322</dc:subject>
+			<dc:subject>Iconclasscode: 34B11</dc:subject>
+		</oai_dc:dc>
+	</metadata>
+</record>

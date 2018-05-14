@@ -1,0 +1,36 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1959-72</identifier>
+		<datestamp>2012-10-26T13:02:23Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1959-72</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1959-72</dc:format>
+			<dc:identifier>RP-T-1959-72</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.145107</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1751 -  1751</dc:date>
+			<dc:format>hoogte 251 MMmmmm</dc:format>
+			<dc:format>breedte 327 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>materiaal: dekverf</dc:format>
+			<dc:format>materiaal: waterverf</dc:format>
+			<dc:format>techniek: pen in grijs</dc:format>
+			<dc:format>techniek: penseel in aquarel</dc:format>
+			<dc:format>techniek: penseel in dekverf</dc:format>
+			<dc:creator> tekenaar: Beijer, Jan de</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>Het stadhuis van Leiden</dc:title>
+			<dc:subject>Stadhuis (Leiden)</dc:subject>
+			<dc:subject>Breestraat (Leiden)</dc:subject>
+			<dc:subject>Iconclasscode: 44B233</dc:subject>
+			<dc:subject>Iconclasscode: 61E(LEIDEN)</dc:subject>
+			<dc:subject>Iconclasscode: 61F(BREESTRAAT)</dc:subject>
+			<dc:subject>Iconclasscode: 61F(STADHUIS)</dc:subject>
+		</oai_dc:dc>
+	</metadata>
+</record>

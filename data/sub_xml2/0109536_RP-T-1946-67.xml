@@ -1,0 +1,39 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1946-67</identifier>
+		<datestamp>2012-10-26T16:06:28Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1946-67</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1946-67</dc:format>
+			<dc:identifier>RP-T-1946-67</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.485774</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1779 -  1779</dc:date>
+			<dc:description>Het korporaalschap van kapitein Frans Banning Cocq en luitenant Willem van Ruytenburch, bekend als de 'Nachtwacht'.</dc:description>
+			<dc:format>hoogte 333 MMmmmm</dc:format>
+			<dc:format>breedte 425 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: aquarelleren</dc:format>
+			<dc:format>techniek: penseel in aquarel</dc:format>
+			<dc:creator> tekenaar: Cats, Jacob (1741-1799)</dc:creator>
+			<dc:coverage/>
+			<dc:creator> naar schilderij van: Lundens, Gerrit</dc:creator>
+			<dc:coverage/>
+			<dc:creator> naar schilderij van: Rembrandt Harmensz. van Rijn</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>De Nachtwacht</dc:title>
+			<dc:coverage>vierde kwart 18e eeuw</dc:coverage>
+			<dc:subject>Iconclasscode: 45D21(+26)</dc:subject>
+			<dc:subject>Iconclasscode: 41C5</dc:subject>
+			<dc:subject>Iconclasscode: 43A411</dc:subject>
+			<dc:subject>Iconclasscode: 44B4212</dc:subject>
+			<dc:subject>Iconclasscode: 61A(1648.06.18)</dc:subject>
+			<dc:subject>Iconclasscode: 48C514</dc:subject>
+		</oai_dc:dc>
+	</metadata>
+</record>

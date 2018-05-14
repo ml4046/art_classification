@@ -1,0 +1,39 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:BI-1887-1463-113</identifier>
+		<datestamp>2012-10-26T16:01:43Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=BI-1887-1463-113</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/BI-1887-1463-113</dc:format>
+			<dc:identifier>BI-1887-1463-113</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.477365</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1659 -  1661</dc:date>
+			<dc:description>Drie tekeningen samen op een blad geplakt.</dc:description>
+			<dc:format>blad: hoogte 243 MMmmmm</dc:format>
+			<dc:format>blad: breedte 360 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>materiaal: inkt</dc:format>
+			<dc:format>materiaal: krijt</dc:format>
+			<dc:format>techniek: tekenen</dc:format>
+			<dc:format>techniek: penseel in zwart</dc:format>
+			<dc:creator>vermeld op object tekenaar: Borch, Moses ter</dc:creator>
+			<dc:coverage>Zwolle</dc:coverage>
+			<dc:creator> naar ontwerp van: anoniem</dc:creator>
+			<dc:coverage/>
+			<dc:creator> naar prent van: Rembrandt Harmensz. van Rijn</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>Maaltijd te Emmaüs, Heilige Hieronymus en de Presentatie in de tempel</dc:title>
+			<dc:contributor>Aankoop met steun van de Vereniging Rembrandt</dc:contributor>
+			<dc:relation>BI-1887-1463-113A</dc:relation>
+			<dc:relation>BI-1887-1463-113B</dc:relation>
+			<dc:relation>BI-1887-1463-113C</dc:relation>
+			<dc:relation>BI-1887-1463</dc:relation>
+		</oai_dc:dc>
+	</metadata>
+</record>

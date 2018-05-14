@@ -1,0 +1,34 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:SK-A-3981</identifier>
+		<datestamp>2012-10-26T09:51:18Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=SK-A-3981</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/SK-A-3981</dc:format>
+			<dc:identifier>SK-A-3981</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.5220</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1638 -  1640</dc:date>
+			<dc:description>Stilleven met pauwen. Een meisje leunt op het kozijn van een stenen venster kijkt naar twee dode pauwen. Een pauw hangt aan het openstaande vensterluik, de andere ligt op een stenen plint bij een plas bloed; op de plint staat ook een mand met fruit.</dc:description>
+			<dc:format>drager: hoogte 145 CMcmcm</dc:format>
+			<dc:format>drager: breedte 135.5 CMcmcm</dc:format>
+			<dc:format>lijst: hoogte 170 CMcmcm</dc:format>
+			<dc:format>lijst: breedte 162.5 CMcmcm</dc:format>
+			<dc:format>lijst: dikte 5 CMcmcm</dc:format>
+			<dc:format>materiaal: doek</dc:format>
+			<dc:format>materiaal: olieverf</dc:format>
+			<dc:creator> schilder: Rembrandt Harmensz. van Rijn</dc:creator>
+			<dc:coverage/>
+			<dc:type>schilderij</dc:type>
+			<dc:title>Stilleven met pauwen</dc:title>
+			<dc:coverage>tweede kwart 17e eeuw</dc:coverage>
+			<dc:subject>Iconclasscode: 25F35(PEACOCK)</dc:subject>
+			<dc:subject>Iconclasscode: 43C113</dc:subject>
+			<dc:subject>Iconclasscode: 31D11222</dc:subject>
+		</oai_dc:dc>
+	</metadata>
+</record>

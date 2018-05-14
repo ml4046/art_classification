@@ -1,0 +1,35 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:NG-1985-7-2-4</identifier>
+		<datestamp>2012-10-26T13:13:39Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=NG-1985-7-2-4</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/NG-1985-7-2-4</dc:format>
+			<dc:identifier>NG-1985-7-2-4</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.158592</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1784 -  1784</dc:date>
+			<dc:description>Kleurtekening van de woonkamer van het huis van de tekenaar Jan Brandes met Jantje met een boek en de slavin in kleermakerszit bij een spinnewiel. Verder een tapijt, meubels, huisdieren. Met opschrift.</dc:description>
+			<dc:format>hoogte 195 MMmmmm</dc:format>
+			<dc:format>breedte 155 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: penseel in kleuren</dc:format>
+			<dc:format>techniek: potlood</dc:format>
+			<dc:creator> tekenaar: Brandes, Jan</dc:creator>
+			<dc:coverage>Jakarta</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Woonkamer met zoon Jantje en spinnende slavin Flora</dc:title>
+			<dc:coverage>vierde kwart 18e eeuw</dc:coverage>
+			<dc:subject>Brandes, Jantje</dc:subject>
+			<dc:subject>Brandes, Flora</dc:subject>
+			<dc:subject>Iconclasscode: 41A2</dc:subject>
+			<dc:subject>Iconclasscode: 47H313</dc:subject>
+			<dc:subject>Iconclasscode: 49MM32</dc:subject>
+			<dc:relation>NG-1985-7-2</dc:relation>
+		</oai_dc:dc>
+	</metadata>
+</record>

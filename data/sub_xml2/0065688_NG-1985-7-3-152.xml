@@ -1,0 +1,30 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:NG-1985-7-3-152</identifier>
+		<datestamp>2012-10-26T13:36:09Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=NG-1985-7-3-152</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/NG-1985-7-3-152</dc:format>
+			<dc:identifier>NG-1985-7-3-152</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.231581</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1779 -  1785</dc:date>
+			<dc:description>Schetsblad met studies van een vrouw met een kind aan de borst. Mogelijk Brandes' eerste vrouw Anna Geertruida Krebber met Jantje aan de borst. Daarnaast Jantje op zijn buik kijkt naast een Indische vrouw die zit te naaien. Boven: twee paarden aan dissel.</dc:description>
+			<dc:format>hoogte 421 MMmmmm</dc:format>
+			<dc:format>breedte 331 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: potlood</dc:format>
+			<dc:creator> tekenaar: Brandes, Jan</dc:creator>
+			<dc:coverage>Batavia</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Schetsen van vrouw met baby en paarden aan disselboom</dc:title>
+			<dc:coverage>vierde kwart 18e eeuw</dc:coverage>
+			<dc:subject>Brandes, Jantje</dc:subject>
+			<dc:subject>Brandes-Krebber, Anna Geertruida</dc:subject>
+		</oai_dc:dc>
+	</metadata>
+</record>

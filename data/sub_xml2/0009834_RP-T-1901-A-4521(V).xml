@@ -1,0 +1,28 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1901-A-4521(V)</identifier>
+		<datestamp>2012-10-26T10:14:57Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1901-A-4521(V)</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1901-A-4521(V)</dc:format>
+			<dc:identifier>RP-T-1901-A-4521(V)</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.28617</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1650 -  1652</dc:date>
+			<dc:format>hoogte 134 MMmmmm</dc:format>
+			<dc:format>breedte 170 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: pen in bruin</dc:format>
+			<dc:creator>school van tekenaar: Rembrandt Harmensz. van Rijn</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>Twee mannen bij een deur en man met kind op schoot</dc:title>
+			<dc:coverage>derde kwart 17e eeuw</dc:coverage>
+			<dc:contributor>Aankoop met steun van de Vereniging Rembrandt</dc:contributor>
+		</oai_dc:dc>
+	</metadata>
+</record>

@@ -1,0 +1,37 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1887-A-755</identifier>
+		<datestamp>2012-10-26T15:12:12Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1887-A-755</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1887-A-755</dc:format>
+			<dc:identifier>RP-T-1887-A-755</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.431066</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1620 - ca. 1625</dc:date>
+			<dc:description>Tekening van een zittende man die zijn luit stemt, opgeplakt naast een gedicht.</dc:description>
+			<dc:format>blad: hoogte 134 MMmmmm</dc:format>
+			<dc:format>blad: breedte 208 MMmmmm</dc:format>
+			<dc:format>beeld: hoogte 57 MMmmmm</dc:format>
+			<dc:format>beeld: breedte 40 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>materiaal: pen (veer)</dc:format>
+			<dc:format>materiaal: inkt</dc:format>
+			<dc:format>techniek: tekenen</dc:format>
+			<dc:creator> tekenaar: Borch, Gerard ter (I)</dc:creator>
+			<dc:coverage>Zwolle</dc:coverage>
+			<dc:creator>mogelijk dichter: Borch, Gerard ter (I)</dc:creator>
+			<dc:coverage>Zwolle</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Zittende man die zijn luit stemt</dc:title>
+			<dc:coverage>eerste kwart 17e eeuw</dc:coverage>
+			<dc:subject>Iconclasscode: 48C75111</dc:subject>
+			<dc:contributor>Aankoop met steun van de Vereniging Rembrandt</dc:contributor>
+		</oai_dc:dc>
+	</metadata>
+</record>

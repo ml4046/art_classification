@@ -1,0 +1,30 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:NG-1985-7-1-91</identifier>
+		<datestamp>2012-10-26T13:02:40Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=NG-1985-7-1-91</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/NG-1985-7-1-91</dc:format>
+			<dc:identifier>NG-1985-7-1-91</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.145181</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1786-04-16 -  1786-04-16</dc:date>
+			<dc:description>Zwartwittekening van twee handen die een fluitje vasthouden waarmee men kwartels kan lokken. Met opschrift.</dc:description>
+			<dc:format>hoogte 195 MMmmmm</dc:format>
+			<dc:format>breedte 155 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: penseel in grijs</dc:format>
+			<dc:format>techniek: schets in potlood</dc:format>
+			<dc:creator> tekenaar: Brandes, Jan</dc:creator>
+			<dc:coverage>Indische Oceaan</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Manier om een kwartelfluit te hanteren</dc:title>
+			<dc:coverage>vierde kwart 18e eeuw</dc:coverage>
+			<dc:relation>NG-1985-7-1</dc:relation>
+		</oai_dc:dc>
+	</metadata>
+</record>

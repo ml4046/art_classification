@@ -1,0 +1,28 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:NG-1985-7-3-128</identifier>
+		<datestamp>2012-10-26T13:35:31Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=NG-1985-7-3-128</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/NG-1985-7-3-128</dc:format>
+			<dc:identifier>NG-1985-7-3-128</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.230978</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1785-10-10 -  1785-12-30</dc:date>
+			<dc:description>Het VOC-gezantschap op de jaarlijkse audiëntie in het paleis van de koning van Kandy, hier mogelijk in 1785. Midden en rechts hovelingen, links de eerste ambassadeur Cornelis de Cock in gesprek met een hoveling.</dc:description>
+			<dc:format>hoogte 383 MMmmmm</dc:format>
+			<dc:format>breedte 518 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: potlood</dc:format>
+			<dc:creator> tekenaar: Brandes, Jan</dc:creator>
+			<dc:coverage>Kandy</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Het VOC-gezantschap te Kandy</dc:title>
+			<dc:coverage>vierde kwart 18e eeuw</dc:coverage>
+		</oai_dc:dc>
+	</metadata>
+</record>

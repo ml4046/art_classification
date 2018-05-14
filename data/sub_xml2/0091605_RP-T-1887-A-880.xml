@@ -1,0 +1,31 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1887-A-880</identifier>
+		<datestamp>2012-10-26T15:12:00Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1887-A-880</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1887-A-880</dc:format>
+			<dc:identifier>RP-T-1887-A-880</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.430883</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>ca. 1610 - ca. 1610</dc:date>
+			<dc:format>hoogte 270 MMmmmm</dc:format>
+			<dc:format>breedte 198 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>materiaal: inkt</dc:format>
+			<dc:format>materiaal: krijt</dc:format>
+			<dc:format>techniek: tekenen</dc:format>
+			<dc:format>techniek: penseel in bruin en grijs</dc:format>
+			<dc:creator> tekenaar: Borch, Gerard ter (I)</dc:creator>
+			<dc:coverage>Rome</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Bos van de Villa Madama buiten Rome, met een jager</dc:title>
+			<dc:coverage>eerste kwart 17e eeuw</dc:coverage>
+			<dc:contributor>Aankoop met steun van de Vereniging Rembrandt</dc:contributor>
+		</oai_dc:dc>
+	</metadata>
+</record>

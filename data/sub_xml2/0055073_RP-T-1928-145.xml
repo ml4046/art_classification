@@ -1,0 +1,34 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1928-145</identifier>
+		<datestamp>2012-10-26T13:05:03Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1928-145</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1928-145</dc:format>
+			<dc:identifier>RP-T-1928-145</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.149954</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1750-09-11 -  1750-09-11</dc:date>
+			<dc:format>hoogte 129 MMmmmm</dc:format>
+			<dc:format>breedte 223 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: pen in grijs</dc:format>
+			<dc:format>techniek: penseel in grijs</dc:format>
+			<dc:creator> tekenaar: Beijer, Jan de</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>Het dorp Krimpen</dc:title>
+			<dc:coverage>derde kwart 18e eeuw</dc:coverage>
+			<dc:subject>Krimpen aan den IJssel</dc:subject>
+			<dc:subject>Krimpen aan de Lek</dc:subject>
+			<dc:subject>Iconclasscode: 25I12</dc:subject>
+			<dc:subject>Iconclasscode: 61E(KRIMPEN AAN DE IJSSEL)</dc:subject>
+			<dc:subject>Iconclasscode: 61E(KRIMPEN AAN DE LEK) (?)</dc:subject>
+			<dc:contributor>Schenking van mevrouw M.L. van Hoorn, Amsterdam, mevrouw H.C. van Hoorn, Amsterdam en de heer P.H.F. van Hoorn, Amsterdam</dc:contributor>
+		</oai_dc:dc>
+	</metadata>
+</record>

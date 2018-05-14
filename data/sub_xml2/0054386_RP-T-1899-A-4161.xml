@@ -1,0 +1,30 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1899-A-4161</identifier>
+		<datestamp>2012-10-26T13:02:51Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1899-A-4161</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1899-A-4161</dc:format>
+			<dc:identifier>RP-T-1899-A-4161</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.145237</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1750-07-14 -  1750-07-14</dc:date>
+			<dc:format>hoogte 135 MMmmmm</dc:format>
+			<dc:format>breedte 215 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: pen in grijs</dc:format>
+			<dc:creator> tekenaar: Beijer, Jan de</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>Dorpsstraat te Leersum</dc:title>
+			<dc:coverage>derde kwart 18e eeuw</dc:coverage>
+			<dc:subject>Leersum</dc:subject>
+			<dc:subject>Iconclasscode: 25I12</dc:subject>
+			<dc:subject>Iconclasscode: 61E(LEERSUM)</dc:subject>
+		</oai_dc:dc>
+	</metadata>
+</record>

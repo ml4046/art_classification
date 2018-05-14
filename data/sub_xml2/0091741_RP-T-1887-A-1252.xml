@@ -1,0 +1,29 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1887-A-1252</identifier>
+		<datestamp>2012-10-26T15:12:20Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1887-A-1252</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1887-A-1252</dc:format>
+			<dc:identifier>RP-T-1887-A-1252</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.431165</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1632 -  1632</dc:date>
+			<dc:format>blad: hoogte 73 MMmmmm</dc:format>
+			<dc:format>blad: breedte 58 MMmmmm</dc:format>
+			<dc:format>materiaal: geprepareerd papier</dc:format>
+			<dc:format>materiaal: krijt</dc:format>
+			<dc:format>techniek: tekenen</dc:format>
+			<dc:creator> tekenaar: Borch, Gerard ter (II)</dc:creator>
+			<dc:coverage>Amsterdam</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Studieblad met de kop van een jongeman en drie handen</dc:title>
+			<dc:coverage>tweede kwart 17e eeuw</dc:coverage>
+			<dc:contributor>Aankoop met steun van de Vereniging Rembrandt</dc:contributor>
+		</oai_dc:dc>
+	</metadata>
+</record>

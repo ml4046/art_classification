@@ -1,0 +1,32 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-00-1841</identifier>
+		<datestamp>2012-10-26T13:43:46Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-00-1841</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-00-1841</dc:format>
+			<dc:identifier>RP-T-00-1841</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.238654</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1747 -  1747</dc:date>
+			<dc:description>Portret van jonker Philips van Dorp, vlootvoogd.</dc:description>
+			<dc:format>hoogte 290 MMmmmm</dc:format>
+			<dc:format>breedte 235 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: zwart, rood en wit krijt</dc:format>
+			<dc:creator> tekenaar: Quinkhard, Jan Maurits</dc:creator>
+			<dc:coverage/>
+			<dc:creator> naar schilderij van: Rembrandt Harmensz. van Rijn</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>Portret van Philips van Dorp</dc:title>
+			<dc:coverage>tweede kwart 18e eeuw</dc:coverage>
+			<dc:subject>Dorp, jhr. Philips van</dc:subject>
+			<dc:subject>Iconclasscode: 61B2(DORP, PHILIPS VAN)11</dc:subject>
+		</oai_dc:dc>
+	</metadata>
+</record>

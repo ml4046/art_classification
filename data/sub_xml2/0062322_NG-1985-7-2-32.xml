@@ -1,0 +1,31 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:NG-1985-7-2-32</identifier>
+		<datestamp>2012-10-26T13:25:51Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=NG-1985-7-2-32</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/NG-1985-7-2-32</dc:format>
+			<dc:identifier>NG-1985-7-2-32</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.170609</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1778 -  1778</dc:date>
+			<dc:description>Pentekening van een wapen met honingraat, paarden in tuig, de huif van een koets en het chassis van een koets. Zie deel 2, pp. 50, 65. Met opschrift.</dc:description>
+			<dc:format>hoogte 195 MMmmmm</dc:format>
+			<dc:format>breedte 155 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: schets in potlood</dc:format>
+			<dc:format>techniek: pen in bruin</dc:format>
+			<dc:format>techniek: pen in grijs</dc:format>
+			<dc:creator> tekenaar: Brandes, Jan</dc:creator>
+			<dc:coverage>Falmouth</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Engels huurkoets en paardetuig in Falmouth</dc:title>
+			<dc:coverage>vierde kwart 18e eeuw</dc:coverage>
+			<dc:relation>NG-1985-7-2</dc:relation>
+		</oai_dc:dc>
+	</metadata>
+</record>

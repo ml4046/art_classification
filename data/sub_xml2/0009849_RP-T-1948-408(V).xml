@@ -1,0 +1,31 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1948-408(V)</identifier>
+		<datestamp>2012-10-26T10:14:59Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1948-408(V)</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1948-408(V)</dc:format>
+			<dc:identifier>RP-T-1948-408(V)</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.28632</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1658 -  1662</dc:date>
+			<dc:format>hoogte 104 MMmmmm</dc:format>
+			<dc:format>breedte 184 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>materiaal: verf</dc:format>
+			<dc:format>techniek: pen in bruin</dc:format>
+			<dc:format>techniek: penseel in bruin</dc:format>
+			<dc:format>techniek: penseel in geelbruin</dc:format>
+			<dc:format>techniek: witte verf</dc:format>
+			<dc:creator>school van tekenaar: Rembrandt Harmensz. van Rijn</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>Liggende leeuw</dc:title>
+			<dc:coverage>derde kwart 17e eeuw</dc:coverage>
+		</oai_dc:dc>
+	</metadata>
+</record>

@@ -1,0 +1,29 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:NG-1985-7-3-137</identifier>
+		<datestamp>2012-10-26T13:35:34Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=NG-1985-7-3-137</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/NG-1985-7-3-137</dc:format>
+			<dc:identifier>NG-1985-7-3-137</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.231021</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1787 -  1787</dc:date>
+			<dc:description>Kustgezicht vanuit de Tafelbaai op Kaapstad met de Duivelspiek en de Tafelberg. Op de voorgrond schepen op de rede. Opschrift in pen. Verso studies van zelfde landschap.</dc:description>
+			<dc:format>hoogte 234 MMmmmm</dc:format>
+			<dc:format>breedte 456 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: pen in bruin</dc:format>
+			<dc:format>techniek: potlood</dc:format>
+			<dc:format>techniek: zwart krijt</dc:format>
+			<dc:creator> tekenaar: Brandes, Jan</dc:creator>
+			<dc:coverage>Kaapstad</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Gezicht op Kaap de Goede Hoop vanuit de Tafelbaai</dc:title>
+		</oai_dc:dc>
+	</metadata>
+</record>

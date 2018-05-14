@@ -1,0 +1,29 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1887-A-1223</identifier>
+		<datestamp>2012-10-26T15:38:38Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1887-A-1223</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1887-A-1223</dc:format>
+			<dc:identifier>RP-T-1887-A-1223</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.455582</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>ca. 1645 -  1681</dc:date>
+			<dc:description>Waarschijnlijk een landschap langs de IJssel tussen Zwolle en Deventer. Getekend op dubbele bladen van een schetsboek.</dc:description>
+			<dc:format>blad: hoogte 90 MMmmmm</dc:format>
+			<dc:format>blad: breedte 420 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>materiaal: krijt</dc:format>
+			<dc:format>techniek: tekenen</dc:format>
+			<dc:creator> tekenaar: Borch, Gerard ter (II)</dc:creator>
+			<dc:coverage>Zwolle</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Landschap met een paard en wagen</dc:title>
+			<dc:contributor>Aankoop met steun van de Vereniging Rembrandt</dc:contributor>
+		</oai_dc:dc>
+	</metadata>
+</record>

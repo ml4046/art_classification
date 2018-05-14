@@ -1,0 +1,31 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:SK-A-4717</identifier>
+		<datestamp>2012-10-26T09:51:22Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=SK-A-4717</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/SK-A-4717</dc:format>
+			<dc:identifier>SK-A-4717</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.5241</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1626 -  1626</dc:date>
+			<dc:description>Interieur met Tobit en Anna met het bokje. Links zit de oude blinde Tobit met zijn hondje bij een vuur. Hij heeft de handen gevouwen. Rechts staat Anna met een bok in de handen. Op de achtermuur planken met huisraad, naast het venster links hangen een streng uien en een vogelkooi. Rechts boven Anna een mand in een nis. Op de grond naast Tobit ligt een kruk of wandelstok, achter hem op een stoel ligt een haspel.</dc:description>
+			<dc:format>drager: hoogte 39.5 CMcmcm</dc:format>
+			<dc:format>drager: breedte 30 CMcmcm</dc:format>
+			<dc:format>materiaal: paneel</dc:format>
+			<dc:format>materiaal: olieverf</dc:format>
+			<dc:creator> schilder: Rembrandt Harmensz. van Rijn</dc:creator>
+			<dc:coverage/>
+			<dc:type>schilderij</dc:type>
+			<dc:title>Tobit en Anna met het bokje  ()</dc:title>
+			<dc:title>Tobit beschuldigt Anna van het stelen van een bokje  (voormalige titel)</dc:title>
+			<dc:coverage>tweede kwart 17e eeuw</dc:coverage>
+			<dc:subject>Iconclasscode: 71T37</dc:subject>
+			<dc:contributor>Aankoop met steun van de Vereniging Rembrandt, de Rijksmuseum-Stichting en De Staat der Nederlanden</dc:contributor>
+		</oai_dc:dc>
+	</metadata>
+</record>

@@ -1,0 +1,29 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:NG-379</identifier>
+		<datestamp>2012-10-26T13:36:41Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=NG-379</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/NG-379</dc:format>
+			<dc:identifier>NG-379</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.231900</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1785-12-05 -  1785-12-05</dc:date>
+			<dc:description>Kleurtekening van groene kuststrook met spaarzame bebouwing. Met opschrift.</dc:description>
+			<dc:format>hoogte 100 MMmmmm</dc:format>
+			<dc:format>breedte 750 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: penseel in kleuren</dc:format>
+			<dc:format>techniek: schets in potlood</dc:format>
+			<dc:creator> tekenaar: Brandes, Jan</dc:creator>
+			<dc:coverage>Colombo</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Colombo gezien van het Slaveneiland</dc:title>
+			<dc:coverage>vierde kwart 18e eeuw</dc:coverage>
+		</oai_dc:dc>
+	</metadata>
+</record>

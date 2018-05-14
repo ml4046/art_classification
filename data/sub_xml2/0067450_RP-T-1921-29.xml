@@ -1,0 +1,32 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1921-29</identifier>
+		<datestamp>2012-10-26T13:41:56Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1921-29</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1921-29</dc:format>
+			<dc:identifier>RP-T-1921-29</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.236591</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1701 -  1759</dc:date>
+			<dc:format>hoogte 132 MMmmmm</dc:format>
+			<dc:format>breedte 192 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: potlood</dc:format>
+			<dc:format>techniek: pen in grijs</dc:format>
+			<dc:format>techniek: penseel in grijs</dc:format>
+			<dc:creator> tekenaar: Pronk, Cornelis</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>Overblijfselen van het Huis ter Beek</dc:title>
+			<dc:subject>Iconclasscode: 41A12</dc:subject>
+			<dc:subject>Iconclasscode: 48C149</dc:subject>
+			<dc:subject>Iconclasscode: 61F(HUIS TER BEEK)</dc:subject>
+			<dc:contributor>Legaat van de heer J.G. de Groot Jamin, Amsterdam</dc:contributor>
+		</oai_dc:dc>
+	</metadata>
+</record>

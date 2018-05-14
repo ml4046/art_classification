@@ -1,0 +1,29 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:BI-1887-1463-46</identifier>
+		<datestamp>2012-10-26T16:01:17Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=BI-1887-1463-46</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/BI-1887-1463-46</dc:format>
+			<dc:identifier>BI-1887-1463-46</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.476993</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1665 -  1665</dc:date>
+			<dc:format>blad: hoogte 243 MMmmmm</dc:format>
+			<dc:format>blad: breedte 360 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>materiaal: krijt</dc:format>
+			<dc:format>techniek: tekenen</dc:format>
+			<dc:creator>eigenhandig gesigneerd tekenaar: Borch, Gerard ter (II)</dc:creator>
+			<dc:coverage>Deventer</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Paard, naar rechts</dc:title>
+			<dc:contributor>Aankoop met steun van de Vereniging Rembrandt</dc:contributor>
+			<dc:relation>BI-1887-1463</dc:relation>
+		</oai_dc:dc>
+	</metadata>
+</record>

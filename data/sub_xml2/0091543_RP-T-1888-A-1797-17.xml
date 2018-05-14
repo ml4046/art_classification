@@ -1,0 +1,31 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1888-A-1797-17</identifier>
+		<datestamp>2012-10-26T15:11:38Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1888-A-1797-17</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1888-A-1797-17</dc:format>
+			<dc:identifier>RP-T-1888-A-1797-17</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.430504</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>ca. 1631 - ca. 1633</dc:date>
+			<dc:description>Blad 16, genummerd: 16, 17.</dc:description>
+			<dc:format>blad: hoogte 147 MMmmmm</dc:format>
+			<dc:format>blad: breedte 197 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>materiaal: pen (veer)</dc:format>
+			<dc:format>materiaal: inkt</dc:format>
+			<dc:format>techniek: tekenen</dc:format>
+			<dc:creator> tekenaar: Borch, Gerard ter (II)</dc:creator>
+			<dc:coverage>Zwolle</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Boerenwoning, schuur en hooimijt, buiten Zwolle</dc:title>
+			<dc:contributor>Schenking van het Departement van Binnenlandse Zaken, met steun van de Vereniging Rembrandt</dc:contributor>
+			<dc:relation>RP-T-1888-A-1797</dc:relation>
+		</oai_dc:dc>
+	</metadata>
+</record>

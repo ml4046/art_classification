@@ -1,0 +1,32 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1887-A-1022(R)</identifier>
+		<datestamp>2012-10-26T15:58:39Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1887-A-1022(R)</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1887-A-1022(R)</dc:format>
+			<dc:identifier>RP-T-1887-A-1022(R)</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.475232</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1652-02-03 -  1652-02-03</dc:date>
+			<dc:description>Een vrouw houdt een sjaal rond haar hoofd vast terwijl ze door de wind loopt, naar links.</dc:description>
+			<dc:format>blad: hoogte 105 MMmmmm</dc:format>
+			<dc:format>blad: breedte 95 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>materiaal: pen (veer)</dc:format>
+			<dc:format>materiaal: inkt</dc:format>
+			<dc:format>materiaal: krijt</dc:format>
+			<dc:format>techniek: tekenen</dc:format>
+			<dc:format>techniek: penseel in zwart</dc:format>
+			<dc:creator>vermeld op object tekenaar: Borch, Harmen ter</dc:creator>
+			<dc:coverage>Zwolle</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Vrouw met een sjaal, naar links</dc:title>
+			<dc:contributor>Aankoop met steun van de Vereniging Rembrandt</dc:contributor>
+		</oai_dc:dc>
+	</metadata>
+</record>

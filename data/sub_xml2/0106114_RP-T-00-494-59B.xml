@@ -1,0 +1,34 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-00-494-59B</identifier>
+		<datestamp>2012-10-26T15:57:56Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-00-494-59B</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-00-494-59B</dc:format>
+			<dc:identifier>RP-T-00-494-59B</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.474460</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1778 -  1778</dc:date>
+			<dc:format>blad: hoogte 132 MMmmmm</dc:format>
+			<dc:format>blad: breedte 602 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: krijt</dc:format>
+			<dc:format>techniek: aquarelleren</dc:format>
+			<dc:format>techniek: penseel</dc:format>
+			<dc:format>techniek: pen</dc:format>
+			<dc:creator> tekenaar: Ducros, Louis</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>Landhuis in Monstres op enkele mijlen afstand van Palermo  ()</dc:title>
+			<dc:title>Maison de campagne des Monstres à quelques milles de Palerme  (titel op object)</dc:title>
+			<dc:title>Voyage en Italie, en Sicile et à Malte - 1778  (albumtitel)</dc:title>
+			<dc:coverage>vierde kwart 18e eeuw</dc:coverage>
+			<dc:contributor>Schenking van mevrouw Hansen-van den Brugghen, Den Haag</dc:contributor>
+			<dc:relation>RP-T-00-494</dc:relation>
+		</oai_dc:dc>
+	</metadata>
+</record>

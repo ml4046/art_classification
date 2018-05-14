@@ -1,0 +1,30 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:NG-1985-7-2-113</identifier>
+		<datestamp>2012-10-26T13:31:08Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=NG-1985-7-2-113</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/NG-1985-7-2-113</dc:format>
+			<dc:identifier>NG-1985-7-2-113</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.214530</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1788-07-14 -  1788-07-14</dc:date>
+			<dc:description>Kleurtekening van drie vissen. Met opschriften.</dc:description>
+			<dc:format>hoogte 155 MMmmmm</dc:format>
+			<dc:format>breedte 195 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: penseel in kleuren</dc:format>
+			<dc:format>techniek: potlood</dc:format>
+			<dc:creator> tekenaar: Brandes, Jan</dc:creator>
+			<dc:coverage>Zweden</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Een tonijn, een haai en een remora</dc:title>
+			<dc:coverage>vierde kwart 18e eeuw</dc:coverage>
+			<dc:relation>NG-1985-7-2</dc:relation>
+		</oai_dc:dc>
+	</metadata>
+</record>

@@ -1,0 +1,35 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:BI-1887-1463-109</identifier>
+		<datestamp>2012-10-26T15:11:47Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=BI-1887-1463-109</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/BI-1887-1463-109</dc:format>
+			<dc:identifier>BI-1887-1463-109</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.430539</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1661 -  1661</dc:date>
+			<dc:format>blad: hoogte 243 MMmmmm</dc:format>
+			<dc:format>blad: breedte 360 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>materiaal: krijt</dc:format>
+			<dc:format>materiaal: inkt</dc:format>
+			<dc:format>materiaal: pen (veer)</dc:format>
+			<dc:format>techniek: penseel in zwart</dc:format>
+			<dc:format>techniek: tekenen</dc:format>
+			<dc:creator>vermeld op object tekenaar: Borch, Moses ter</dc:creator>
+			<dc:coverage>Zwolle</dc:coverage>
+			<dc:creator>vermeld op object naar tekening van: Borch, Gerard ter (II)</dc:creator>
+			<dc:coverage>Haarlem</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Omroeper op een marktplein</dc:title>
+			<dc:coverage>derde kwart 17e eeuw</dc:coverage>
+			<dc:contributor>Aankoop met steun van de Vereniging Rembrandt</dc:contributor>
+			<dc:relation>BI-1887-1463</dc:relation>
+		</oai_dc:dc>
+	</metadata>
+</record>

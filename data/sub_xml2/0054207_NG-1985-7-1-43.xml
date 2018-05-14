@@ -1,0 +1,29 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:NG-1985-7-1-43</identifier>
+		<datestamp>2012-10-26T13:02:16Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=NG-1985-7-1-43</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/NG-1985-7-1-43</dc:format>
+			<dc:identifier>NG-1985-7-1-43</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.145050</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1786-04-20 -  1787-03-15</dc:date>
+			<dc:description>Potloodschets over 4 pagina's van Kaap de Goede Hoop van zee gezien. Schets van een vogelnest. Schets van een struik of boom. Met opschrift.</dc:description>
+			<dc:format>hoogte 195 MMmmmm</dc:format>
+			<dc:format>breedte 620 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: schets in potlood</dc:format>
+			<dc:creator> tekenaar: Brandes, Jan</dc:creator>
+			<dc:coverage>Kaapstad</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Gezicht op Kaap de Goede Hoop</dc:title>
+			<dc:coverage>vierde kwart 18e eeuw</dc:coverage>
+			<dc:relation>NG-1985-7-1</dc:relation>
+		</oai_dc:dc>
+	</metadata>
+</record>

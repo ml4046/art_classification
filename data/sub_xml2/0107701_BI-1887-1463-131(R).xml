@@ -1,0 +1,34 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:BI-1887-1463-131(R)</identifier>
+		<datestamp>2012-10-26T16:01:51Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=BI-1887-1463-131(R)</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/BI-1887-1463-131(R)</dc:format>
+			<dc:identifier>BI-1887-1463-131(R)</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.477437</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1617 -  1617</dc:date>
+			<dc:format>beeld: hoogte 190 MMmmmm</dc:format>
+			<dc:format>beeld: breedte 150 MMmmmm</dc:format>
+			<dc:format>blad: hoogte 243 MMmmmm</dc:format>
+			<dc:format>blad: breedte 360 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>materiaal: pen (veer)</dc:format>
+			<dc:format>materiaal: inkt</dc:format>
+			<dc:format>materiaal: potlood</dc:format>
+			<dc:format>techniek: tekenen</dc:format>
+			<dc:format>techniek: penseel in bruin</dc:format>
+			<dc:creator>eigenhandig gesigneerd tekenaar: Borch, Gerard ter (I)</dc:creator>
+			<dc:coverage>Zwolle</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Maaltijd te Emmaüs</dc:title>
+			<dc:contributor>Aankoop met steun van de Vereniging Rembrandt</dc:contributor>
+			<dc:relation>BI-1887-1463</dc:relation>
+		</oai_dc:dc>
+	</metadata>
+</record>

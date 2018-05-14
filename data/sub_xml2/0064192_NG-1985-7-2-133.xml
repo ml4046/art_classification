@@ -1,0 +1,31 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:NG-1985-7-2-133</identifier>
+		<datestamp>2012-10-26T13:32:18Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=NG-1985-7-2-133</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/NG-1985-7-2-133</dc:format>
+			<dc:identifier>NG-1985-7-2-133</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.225441</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1779-01-23 -  1785-08-26</dc:date>
+			<dc:description>Zwartwitte penseel tekening van een Aziatische vrouw en een drager van twee manden aan een stok. Pentekening van het zegel of wapen van familie Brandes, J.D.B.</dc:description>
+			<dc:format>hoogte  MMmmmm</dc:format>
+			<dc:format>breedte  MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: penseel in grijs</dc:format>
+			<dc:format>techniek: pen in bruin</dc:format>
+			<dc:format>techniek: potlood</dc:format>
+			<dc:creator> tekenaar: Brandes, Jan</dc:creator>
+			<dc:coverage>Jakarta</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Vrouw en koelie op straat Batavia. Zegel J.D.B.</dc:title>
+			<dc:coverage>vierde kwart 18e eeuw</dc:coverage>
+			<dc:relation>NG-1985-7-2</dc:relation>
+		</oai_dc:dc>
+	</metadata>
+</record>

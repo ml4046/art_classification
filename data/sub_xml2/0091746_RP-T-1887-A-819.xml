@@ -1,0 +1,33 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1887-A-819</identifier>
+		<datestamp>2012-10-26T15:12:21Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1887-A-819</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1887-A-819</dc:format>
+			<dc:identifier>RP-T-1887-A-819</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.431228</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1655 -  1661</dc:date>
+			<dc:description>Een drinktafereel met een zittende dame, op de rug gezien, een slapende soldaat met het hoofd op de armen aan tafel gezeten en een staande heer tussen de tafel en de bedstee op de achtergrond.</dc:description>
+			<dc:format>blad: hoogte 139 MMmmmm</dc:format>
+			<dc:format>blad: breedte 102 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>materiaal: pen (veer)</dc:format>
+			<dc:format>materiaal: inkt</dc:format>
+			<dc:format>materiaal: krijt</dc:format>
+			<dc:format>techniek: tekenen</dc:format>
+			<dc:creator>vermeld op object tekenaar: Borch, Gerard ter (II)</dc:creator>
+			<dc:coverage>Deventer</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Drinktafereel met een zittende dame, een slapende soldaat en een staande heer</dc:title>
+			<dc:coverage>derde kwart 17e eeuw</dc:coverage>
+			<dc:subject>Iconclasscode: 31B1</dc:subject>
+			<dc:contributor>Aankoop met steun van de Vereniging Rembrandt</dc:contributor>
+		</oai_dc:dc>
+	</metadata>
+</record>

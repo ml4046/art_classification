@@ -1,0 +1,38 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1885-A-463</identifier>
+		<datestamp>2012-10-26T11:18:42Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1885-A-463</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1885-A-463</dc:format>
+			<dc:identifier>RP-T-1885-A-463</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.60244</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1670 -  1679</dc:date>
+			<dc:description>Rijnlandschap met links Rolandseck en rechts Drachenfels.</dc:description>
+			<dc:format>hoogte 179 MMmmmm</dc:format>
+			<dc:format>breedte 292 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>materiaal: waterverf</dc:format>
+			<dc:format>techniek: zwart krijt</dc:format>
+			<dc:format>techniek: penseel in waterverf</dc:format>
+			<dc:creator> tekenaar: Saftleven, Herman</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>Rijn bij de Drachenfels</dc:title>
+			<dc:coverage>derde kwart 17e eeuw</dc:coverage>
+			<dc:coverage>vierde kwart 17e eeuw</dc:coverage>
+			<dc:subject>Rijn</dc:subject>
+			<dc:subject>Drachenfels</dc:subject>
+			<dc:subject>Drachenfels</dc:subject>
+			<dc:subject>Iconclasscode: 25H217</dc:subject>
+			<dc:subject>Iconclasscode: 61D(RHEIN)</dc:subject>
+			<dc:subject>Iconclasscode: 61F(DRACHENFELS)</dc:subject>
+			<dc:subject>Iconclasscode: 61F(ROLANDSECK)</dc:subject>
+		</oai_dc:dc>
+	</metadata>
+</record>

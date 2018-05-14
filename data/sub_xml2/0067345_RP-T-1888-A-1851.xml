@@ -1,0 +1,32 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1888-A-1851</identifier>
+		<datestamp>2012-10-26T13:41:14Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1888-A-1851</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1888-A-1851</dc:format>
+			<dc:identifier>RP-T-1888-A-1851</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.236002</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1701 -  1759</dc:date>
+			<dc:format>hoogte 150 MMmmmm</dc:format>
+			<dc:format>breedte 200 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: potlood</dc:format>
+			<dc:format>techniek: pen in bruin</dc:format>
+			<dc:format>techniek: penseel in grijs</dc:format>
+			<dc:creator>mogelijk tekenaar: Pronk, Cornelis</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>Het slot Oldehuis te Vollenhove, van binnen</dc:title>
+			<dc:subject>Slot Oldehuis (Vollenhove)</dc:subject>
+			<dc:subject>Iconclasscode: 41A12</dc:subject>
+			<dc:subject>Iconclasscode: 61E(VOLLENHOVE)</dc:subject>
+			<dc:subject>Iconclasscode: 61F(SLOT OLDEHUIS)</dc:subject>
+		</oai_dc:dc>
+	</metadata>
+</record>

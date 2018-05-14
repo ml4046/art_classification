@@ -1,0 +1,36 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1888-A-1477</identifier>
+		<datestamp>2012-10-26T11:18:27Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1888-A-1477</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1888-A-1477</dc:format>
+			<dc:identifier>RP-T-1888-A-1477</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.60102</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1619 -  1685</dc:date>
+			<dc:format>hoogte 98 MMmmmm</dc:format>
+			<dc:format>breedte 150 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: pen in bruin</dc:format>
+			<dc:format>techniek: penseel in bruin</dc:format>
+			<dc:format>techniek: zwart krijt</dc:format>
+			<dc:creator> tekenaar: Saftleven, Herman</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>Staande fluitspeler, man met een stok en man met een zaag</dc:title>
+			<dc:coverage>eerste kwart 17e eeuw</dc:coverage>
+			<dc:coverage>tweede kwart 17e eeuw</dc:coverage>
+			<dc:coverage>derde kwart 17e eeuw</dc:coverage>
+			<dc:coverage>vierde kwart 17e eeuw</dc:coverage>
+			<dc:subject>Iconclasscode: 47B1612</dc:subject>
+			<dc:subject>Iconclasscode: 48C7525</dc:subject>
+			<dc:subject>Iconclasscode: 48C7351</dc:subject>
+			<dc:subject>Iconclasscode: 31A231</dc:subject>
+		</oai_dc:dc>
+	</metadata>
+</record>

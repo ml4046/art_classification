@@ -1,0 +1,29 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:NG-1985-7-3-142</identifier>
+		<datestamp>2012-10-26T13:35:44Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=NG-1985-7-3-142</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/NG-1985-7-3-142</dc:format>
+			<dc:identifier>NG-1985-7-3-142</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.231198</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1779 -  1785</dc:date>
+			<dc:description>Linksvoor een groep mensen waaronder enkele Chinezen en een Moor, op de achtergrond een rijtuig met Europeanen. De koetsier van het rijtuig slaat met zijn zweep naar een ruiter. Mogelijk verbeelding van een bekend voorval (wellicht naar een voorbeeld).</dc:description>
+			<dc:format>hoogte 333 MMmmmm</dc:format>
+			<dc:format>breedte 496 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: penseel in grijs</dc:format>
+			<dc:format>techniek: schets in potlood</dc:format>
+			<dc:creator> tekenaar: Brandes, Jan</dc:creator>
+			<dc:coverage>Batavia</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Straattafereel Batavia</dc:title>
+			<dc:coverage>vierde kwart 18e eeuw</dc:coverage>
+		</oai_dc:dc>
+	</metadata>
+</record>

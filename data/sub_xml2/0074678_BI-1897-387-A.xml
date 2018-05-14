@@ -1,0 +1,67 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:BI-1897-387-A</identifier>
+		<datestamp>2012-10-26T14:10:59Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=BI-1897-387-A</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/BI-1897-387-A</dc:format>
+			<dc:identifier>BI-1897-387-A</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.312951</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1691 -  1734</dc:date>
+			<dc:description>Schetsboek met 21 bladen waarvan 18 met schetsen van buitenplaatsen te Bergen, Abcoude, Heiloo, Alkmaar en Heusden. Boekband met perkamenten boekrug en gemarmerd papier. Op het schutblad staan notities en schetsjes van figuren in klederdracht.</dc:description>
+			<dc:format>schetsboek: hoogte 131 MMmmmm</dc:format>
+			<dc:format>schetsboek: breedte 189 MMmmmm</dc:format>
+			<dc:format>schetsboek: diepte 15 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: pen in bruin en zwart</dc:format>
+			<dc:format>techniek: penseel in grijs en oker</dc:format>
+			<dc:creator> tekenaar: Meyling, Abraham</dc:creator>
+			<dc:coverage/>
+			<dc:creator>verworpen toeschrijving tekenaar: Pronk, Cornelis</dc:creator>
+			<dc:coverage/>
+			<dc:type>schetsboek</dc:type>
+			<dc:type>tekening</dc:type>
+			<dc:title>Schetsboek met 21 bladen waarvan 18 met schetsen van buitenplaatsen te Bergen, Abcoude, Heiloo, Alkmaar en Heusden</dc:title>
+			<dc:coverage>vierde kwart 17e eeuw</dc:coverage>
+			<dc:coverage>eerste kwart 18e eeuw</dc:coverage>
+			<dc:coverage>tweede kwart 18e eeuw</dc:coverage>
+			<dc:subject>Abcoude</dc:subject>
+			<dc:subject>Alkmaar</dc:subject>
+			<dc:subject>Bergen (Noord-Holland)</dc:subject>
+			<dc:subject>Heiloo</dc:subject>
+			<dc:subject>Heusden</dc:subject>
+			<dc:subject>Iconclasscode: 61E(ALKMAAR)</dc:subject>
+			<dc:subject>Iconclasscode: 61E(HEUSDEN)</dc:subject>
+			<dc:subject>Iconclasscode: 25I3</dc:subject>
+			<dc:subject>Iconclasscode: 25I9</dc:subject>
+			<dc:subject>Iconclasscode: 41A12</dc:subject>
+			<dc:subject>Iconclasscode: 61E(BERGEN)</dc:subject>
+			<dc:subject>Iconclasscode: 61E(ABCOUDE)</dc:subject>
+			<dc:subject>Iconclasscode: 61E(HEILOO)</dc:subject>
+			<dc:contributor>Schenking van A.N. Godefroy</dc:contributor>
+			<dc:relation>BI-1897-387-A-3</dc:relation>
+			<dc:relation>BI-1897-387-A-2</dc:relation>
+			<dc:relation>BI-1897-387-A-4</dc:relation>
+			<dc:relation>BI-1897-387-A-5</dc:relation>
+			<dc:relation>BI-1897-387-A-6</dc:relation>
+			<dc:relation>BI-1897-387-A-7</dc:relation>
+			<dc:relation>BI-1897-387-A-8</dc:relation>
+			<dc:relation>BI-1897-387-A-9</dc:relation>
+			<dc:relation>BI-1897-387-A-10</dc:relation>
+			<dc:relation>BI-1897-387-A-11</dc:relation>
+			<dc:relation>BI-1897-387-A-12</dc:relation>
+			<dc:relation>BI-1897-387-A-13</dc:relation>
+			<dc:relation>BI-1897-387-A-14</dc:relation>
+			<dc:relation>BI-1897-387-A-15</dc:relation>
+			<dc:relation>BI-1897-387-A-16</dc:relation>
+			<dc:relation>BI-1897-387-A-17</dc:relation>
+			<dc:relation>BI-1897-387-A-18</dc:relation>
+			<dc:relation>BI-1897-387-A-19</dc:relation>
+		</oai_dc:dc>
+	</metadata>
+</record>

@@ -1,0 +1,35 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-P-OB-12.348</identifier>
+		<datestamp>2012-10-26T10:38:26Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-P-OB-12.348</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-P-OB-12.348</dc:format>
+			<dc:identifier>RP-P-OB-12.348</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.37111</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1625 -  1750</dc:date>
+			<dc:description>Getekende kopie naar de gelijknamige prent van Rembrandt.</dc:description>
+			<dc:format>hoogte 120 MMmmmm</dc:format>
+			<dc:format>breedte 84 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: pen in zwart</dc:format>
+			<dc:creator> tekenaar: anoniem</dc:creator>
+			<dc:coverage/>
+			<dc:creator> naar prent van: Rembrandt Harmensz. van Rijn</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>Bedelaar en bedelares, komende vanachter een heuveltje</dc:title>
+			<dc:coverage>tweede kwart 17e eeuw</dc:coverage>
+			<dc:coverage>derde kwart 17e eeuw</dc:coverage>
+			<dc:coverage>vierde kwart 17e eeuw</dc:coverage>
+			<dc:coverage>eerste kwart 18e eeuw</dc:coverage>
+			<dc:coverage>tweede kwart 18e eeuw</dc:coverage>
+			<dc:subject>Iconclasscode: 46A151</dc:subject>
+		</oai_dc:dc>
+	</metadata>
+</record>

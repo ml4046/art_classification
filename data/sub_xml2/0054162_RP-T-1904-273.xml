@@ -1,0 +1,31 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1904-273</identifier>
+		<datestamp>2012-10-26T13:02:07Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1904-273</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1904-273</dc:format>
+			<dc:identifier>RP-T-1904-273</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.144992</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1818 -  1818</dc:date>
+			<dc:format>hoogte 133 MMmmmm</dc:format>
+			<dc:format>breedte 128 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: zwart en rood krijt</dc:format>
+			<dc:format>techniek: potlood</dc:format>
+			<dc:format>techniek: penseel in geel</dc:format>
+			<dc:creator> tekenaar: Bernard, Jean</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>Kop van een roofvogel</dc:title>
+			<dc:coverage>eerste kwart 19e eeuw</dc:coverage>
+			<dc:subject>Iconclasscode: 25F33</dc:subject>
+			<dc:contributor>Schenking van de erven van de heer J. Bernard van IJsseldijk</dc:contributor>
+		</oai_dc:dc>
+	</metadata>
+</record>

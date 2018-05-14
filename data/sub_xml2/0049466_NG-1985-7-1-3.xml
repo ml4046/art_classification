@@ -1,0 +1,32 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:NG-1985-7-1-3</identifier>
+		<datestamp>2012-10-26T12:48:51Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=NG-1985-7-1-3</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/NG-1985-7-1-3</dc:format>
+			<dc:identifier>NG-1985-7-1-3</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.131430</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1779 -  1787</dc:date>
+			<dc:description>Kleurtekening van het halfdek gezien van de grote mast naar de bezaanmast. Zichtbaar zijn een deel van de bolstaande zeilen, tuig en want. Op het dek staan kisten en een stoel. De stuurman draait het stuurwiel. Een bediende haalt servies voor de deels zichtbare officiersverblijven. Ter rechterzijde ontbreekt een deel van de tekening.</dc:description>
+			<dc:format>hoogte 155 MMmmmm</dc:format>
+			<dc:format>breedte 195 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: schets in potlood</dc:format>
+			<dc:format>techniek: penseel in kleuren</dc:format>
+			<dc:creator> tekenaar: Brandes, Jan</dc:creator>
+			<dc:coverage>Atlantische Oceaan</dc:coverage>
+			<dc:creator> tekenaar: Brandes, Jan</dc:creator>
+			<dc:coverage>Indische Oceaan</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Dekzicht van een Oostindiëvaarder met stuurman aan het roer</dc:title>
+			<dc:coverage>vierde kwart 18e eeuw</dc:coverage>
+			<dc:relation>NG-1985-7-1</dc:relation>
+		</oai_dc:dc>
+	</metadata>
+</record>

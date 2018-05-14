@@ -1,0 +1,30 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:SK-A-3066</identifier>
+		<datestamp>2012-10-26T09:51:22Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=SK-A-3066</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/SK-A-3066</dc:format>
+			<dc:identifier>SK-A-3066</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.5243</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1631 -  1631</dc:date>
+			<dc:description>Een oude vrouw, waarschijnlijk Rembrandts moeder, Neeltgen Willemsdr van Zuydtbroeck (overl. 1640), vermoedelijk voorgesteld als de profetes Anna. Een zittende oude vrouw, lezend in een groot boek dat opengeslagen op haar schoot ligt.</dc:description>
+			<dc:format>hoogte 60 CMcmcm</dc:format>
+			<dc:format>breedte 48 CMcmcm</dc:format>
+			<dc:format>materiaal: paneel</dc:format>
+			<dc:format>materiaal: olieverf</dc:format>
+			<dc:creator> schilder: Rembrandt Harmensz. van Rijn</dc:creator>
+			<dc:coverage/>
+			<dc:type>schilderij</dc:type>
+			<dc:title>Een oude vrouw, waarschijnlijk Rembrandts moeder, Neeltgen Willemsdr van Zuydtbroeck (gest 1640), vermoedelijk voorgesteld als de profetes Anna</dc:title>
+			<dc:coverage>tweede kwart 17e eeuw</dc:coverage>
+			<dc:subject>Iconclasscode: 11Q51</dc:subject>
+			<dc:subject>Iconclasscode: 31D17</dc:subject>
+		</oai_dc:dc>
+	</metadata>
+</record>

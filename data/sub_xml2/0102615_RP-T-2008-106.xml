@@ -1,0 +1,32 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-2008-106</identifier>
+		<datestamp>2012-10-26T15:47:47Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-2008-106</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-2008-106</dc:format>
+			<dc:identifier>RP-T-2008-106</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.464928</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>ca. 1750 - ca. 1750</dc:date>
+			<dc:description>De achterzijde van het huis met T-vormige vijver en in obelisk-vorm geschoren heggen. Op de voorgrond een beeld van drie naakte knaapjes met een net</dc:description>
+			<dc:format>blad: hoogte 308 MMmmmm</dc:format>
+			<dc:format>blad: breedte 361 MMmmmm</dc:format>
+			<dc:format>voorstelling: hoogte 290 MMmmmm</dc:format>
+			<dc:format>voorstelling: breedte 347 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: penseel</dc:format>
+			<dc:creator> tekenaar: Pronk, Cornelis</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>Het huis Spieringshoek tussen Rotterdam en Schiedam; de achterzijde</dc:title>
+			<dc:coverage>vierde kwart 16e eeuw</dc:coverage>
+			<dc:subject>Huis Spieringshoek (Schiedam)</dc:subject>
+			<dc:contributor>Schenking van de erven van de heer I.Q. van Regteren Altena, Amersfoort</dc:contributor>
+		</oai_dc:dc>
+	</metadata>
+</record>

@@ -1,0 +1,30 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:SK-A-4119</identifier>
+		<datestamp>2012-10-26T09:51:21Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=SK-A-4119</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/SK-A-4119</dc:format>
+			<dc:identifier>SK-A-4119</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.5239</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>ca. 1642 - ca. 1648</dc:date>
+			<dc:description>De heilige familie bij avond. Interieur verlicht door kaarslicht met Maria en Anna bij de wieg waarin het Christuskind slaapt. Maria leest uit een boek, Anna houdt het wiegenkoord in de handen. Jozef zit links onder de trap. Op een tafel rechts staan een paar oude schoenen, een fles en een vijzel. Aan de muur hangt achter Anna een kaart op rollen.</dc:description>
+			<dc:format>drager: hoogte 66.5 CMcmcm</dc:format>
+			<dc:format>drager: breedte 78 CMcmcm</dc:format>
+			<dc:format>materiaal: paneel</dc:format>
+			<dc:format>materiaal: olieverf</dc:format>
+			<dc:format>techniek: schilderen</dc:format>
+			<dc:creator>atelier van schilder: Rembrandt Harmensz. van Rijn</dc:creator>
+			<dc:coverage/>
+			<dc:type>schilderij</dc:type>
+			<dc:title>De heilige familie bij avond</dc:title>
+			<dc:coverage>tweede kwart 17e eeuw</dc:coverage>
+			<dc:contributor>Aankoop met steun van de Vereniging Rembrandt, het Prins Bernhard Fonds en de Stichting tot Bevordering van de Belangen van het Rijksmuseum</dc:contributor>
+		</oai_dc:dc>
+	</metadata>
+</record>

@@ -1,0 +1,31 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-00-75</identifier>
+		<datestamp>2012-10-26T15:58:28Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-00-75</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-00-75</dc:format>
+			<dc:identifier>RP-T-00-75</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.475048</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>ca. 1652 - ca. 1652</dc:date>
+			<dc:description>Vrouw met een rek onder de arm, lopend naast een vrouw met een mand over haar hoofd.</dc:description>
+			<dc:format>blad: hoogte 80 MMmmmm</dc:format>
+			<dc:format>blad: breedte 103 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>materiaal: pen (veer)</dc:format>
+			<dc:format>materiaal: inkt</dc:format>
+			<dc:format>materiaal: krijt</dc:format>
+			<dc:format>techniek: tekenen</dc:format>
+			<dc:format>techniek: penseel in bruin</dc:format>
+			<dc:creator> tekenaar: Borch, Harmen ter</dc:creator>
+			<dc:coverage>Zwolle</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Vrouw met een rek en een vrouw met een mand</dc:title>
+		</oai_dc:dc>
+	</metadata>
+</record>

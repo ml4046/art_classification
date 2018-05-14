@@ -1,0 +1,34 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1921-39</identifier>
+		<datestamp>2012-10-26T13:02:27Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1921-39</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1921-39</dc:format>
+			<dc:identifier>RP-T-1921-39</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.145133</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1740 -  1740</dc:date>
+			<dc:format>hoogte 215 MMmmmm</dc:format>
+			<dc:format>breedte 314 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: pen in grijs</dc:format>
+			<dc:format>techniek: penseel in grijs</dc:format>
+			<dc:creator> tekenaar: Beijer, Jan de</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>De Sint-Nicolaaspoort te Namen</dc:title>
+			<dc:coverage>tweede kwart 18e eeuw</dc:coverage>
+			<dc:subject>Sint-Nicolaaspoort (Namen)</dc:subject>
+			<dc:subject>Iconclasscode: 25I1461</dc:subject>
+			<dc:subject>Iconclasscode: 61D(BELGIUM)</dc:subject>
+			<dc:subject>Iconclasscode: 61E(NAMUR)</dc:subject>
+			<dc:subject>Iconclasscode: 61F(SINT-NICOLAASPOORT)</dc:subject>
+			<dc:contributor>Legaat van de heer J.G. de Groot Jamin, Amsterdam</dc:contributor>
+		</oai_dc:dc>
+	</metadata>
+</record>

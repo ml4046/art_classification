@@ -1,0 +1,100 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-00-492</identifier>
+		<datestamp>2012-10-26T14:44:41Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-00-492</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-00-492</dc:format>
+			<dc:identifier>RP-T-00-492</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.363281</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1778 -  1778</dc:date>
+			<dc:description>Album met leren band met goudopdruk waarin aquarellen en tekeningen van reisgezichten in Zuid-Italië en op Sicilië en Malta. Op 26 januari 1778 verlieten Willem Carel Dierkens en Willem Hendrik van Nieuwerkerke Den Haag voor een reis naar Zuid-Italië, Sicilië en Malta. Later sloten ook Nicolaas ten Hove, Nathaniel Thornbury en de Zwitserse kunstenaar Louis Ducros zich bij hen aan. Ducros legde onderweg de bezienswaardigheden vast, welke door Ten Hove thuis na de reis werden gemonteerd in drie albums. Dit eerste album bevat tekeningen van landschappen, stadsgezichten, antieke monumenten en scènes uit het dagelijks leven onderweg.</dc:description>
+			<dc:format>hoogte 655 MMmmmm</dc:format>
+			<dc:format>breedte 520 MMmmmm</dc:format>
+			<dc:format>dikte 55 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>materiaal: leer</dc:format>
+			<dc:format>techniek: diverse</dc:format>
+			<dc:creator>vermeld op object tekenaar: Ducros, Louis</dc:creator>
+			<dc:coverage>Sicilië</dc:coverage>
+			<dc:type>album</dc:type>
+			<dc:type>tekening</dc:type>
+			<dc:title>Album met aquarellen en tekeningen van reisgezichten in Zuid-Italië en op Sicilië en Malta  ()</dc:title>
+			<dc:title>Voyage en Italie, en Sicile et à Malte - 1778  (albumtitel)</dc:title>
+			<dc:coverage>vierde kwart 18e eeuw</dc:coverage>
+			<dc:contributor>Schenking van mevrouw Hansen-van den Brugghen, Den Haag</dc:contributor>
+			<dc:relation>RP-T-00-492-47</dc:relation>
+			<dc:relation>RP-T-00-492-46B</dc:relation>
+			<dc:relation>RP-T-00-492-46A</dc:relation>
+			<dc:relation>RP-T-00-492-52B</dc:relation>
+			<dc:relation>RP-T-00-492-51A</dc:relation>
+			<dc:relation>RP-T-00-492-53</dc:relation>
+			<dc:relation>RP-T-00-492-54</dc:relation>
+			<dc:relation>RP-T-00-492-52A</dc:relation>
+			<dc:relation>RP-T-00-492-49</dc:relation>
+			<dc:relation>RP-T-00-492-48B</dc:relation>
+			<dc:relation>RP-T-00-492-55B</dc:relation>
+			<dc:relation>RP-T-00-492-55A</dc:relation>
+			<dc:relation>RP-T-00-492-48A</dc:relation>
+			<dc:relation>RP-T-00-492-51B</dc:relation>
+			<dc:relation>RP-T-00-492-61B</dc:relation>
+			<dc:relation>RP-T-00-492-7B</dc:relation>
+			<dc:relation>RP-T-00-492-7A</dc:relation>
+			<dc:relation>RP-T-00-492-69</dc:relation>
+			<dc:relation>RP-T-00-492-66A</dc:relation>
+			<dc:relation>RP-T-00-492-66B</dc:relation>
+			<dc:relation>RP-T-00-492-67</dc:relation>
+			<dc:relation>RP-T-00-492-70B</dc:relation>
+			<dc:relation>RP-T-00-492-70A</dc:relation>
+			<dc:relation>RP-T-00-492-71A</dc:relation>
+			<dc:relation>RP-T-00-492-71B</dc:relation>
+			<dc:relation>RP-T-00-492-75</dc:relation>
+			<dc:relation>RP-T-00-492-84</dc:relation>
+			<dc:relation>RP-T-00-492-77B</dc:relation>
+			<dc:relation>RP-T-00-492-90A</dc:relation>
+			<dc:relation>RP-T-00-492-81</dc:relation>
+			<dc:relation>RP-T-00-492-80B</dc:relation>
+			<dc:relation>RP-T-00-492-83A</dc:relation>
+			<dc:relation>RP-T-00-492-82</dc:relation>
+			<dc:relation>RP-T-00-492-77A</dc:relation>
+			<dc:relation>RP-T-00-492-86</dc:relation>
+			<dc:relation>RP-T-00-492-90B</dc:relation>
+			<dc:relation>RP-T-00-492-85</dc:relation>
+			<dc:relation>RP-T-00-492-88</dc:relation>
+			<dc:relation>RP-T-00-492-87</dc:relation>
+			<dc:relation>RP-T-00-492-80A</dc:relation>
+			<dc:relation>RP-T-00-492-83B</dc:relation>
+			<dc:relation>RP-T-00-492-89</dc:relation>
+			<dc:relation>RP-T-00-492-76B</dc:relation>
+			<dc:relation>RP-T-00-492-76A</dc:relation>
+			<dc:relation>RP-T-00-492-74</dc:relation>
+			<dc:relation>RP-T-00-492-57B</dc:relation>
+			<dc:relation>RP-T-00-492-57A</dc:relation>
+			<dc:relation>RP-T-00-492-58A</dc:relation>
+			<dc:relation>RP-T-00-492-58B</dc:relation>
+			<dc:relation>RP-T-00-492-60A</dc:relation>
+			<dc:relation>RP-T-00-493-10A</dc:relation>
+			<dc:relation>RP-T-00-492-60B</dc:relation>
+			<dc:relation>RP-T-00-492-59A</dc:relation>
+			<dc:relation>RP-T-00-492-59B</dc:relation>
+			<dc:relation>RP-T-00-492-64</dc:relation>
+			<dc:relation>RP-T-00-492-65</dc:relation>
+			<dc:relation>RP-T-00-492-63B</dc:relation>
+			<dc:relation>RP-T-00-492-62B</dc:relation>
+			<dc:relation>RP-T-00-492-62A</dc:relation>
+			<dc:relation>RP-T-00-492-63A</dc:relation>
+			<dc:relation>RP-T-00-492-50</dc:relation>
+			<dc:relation>RP-T-00-492-68</dc:relation>
+			<dc:relation>RP-T-00-492-72</dc:relation>
+			<dc:relation>RP-T-00-492-43A</dc:relation>
+			<dc:relation>RP-T-00-492-9B</dc:relation>
+			<dc:relation>RP-T-00-492-8B</dc:relation>
+			<dc:relation>RP-T-00-492-9A</dc:relation>
+		</oai_dc:dc>
+	</metadata>
+</record>

@@ -1,0 +1,32 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1961-75</identifier>
+		<datestamp>2012-10-26T10:14:13Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1961-75</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1961-75</dc:format>
+			<dc:identifier>RP-T-1961-75</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.28117</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1628 -  1629</dc:date>
+			<dc:format>hoogte 127 MMmmmm</dc:format>
+			<dc:format>breedte 94 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: pen in bruin</dc:format>
+			<dc:format>techniek: penseel in grijs</dc:format>
+			<dc:creator> tekenaar: Rembrandt Harmensz. van Rijn</dc:creator>
+			<dc:coverage>Leiden</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Zelfportret van Rembrandt van Rijn</dc:title>
+			<dc:coverage>tweede kwart 17e eeuw</dc:coverage>
+			<dc:subject>Rembrandt Harmensz. van Rijn</dc:subject>
+			<dc:subject>Iconclasscode: 48B3</dc:subject>
+			<dc:subject>Iconclasscode: 48C513</dc:subject>
+			<dc:contributor>Schenking van de heer en mevrouw De Bruijn-van der Leeuw, Muri</dc:contributor>
+		</oai_dc:dc>
+	</metadata>
+</record>

@@ -1,0 +1,33 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1887-A-795</identifier>
+		<datestamp>2012-10-26T10:27:19Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1887-A-795</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1887-A-795</dc:format>
+			<dc:identifier>RP-T-1887-A-795</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.33765</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1642 -  1681</dc:date>
+			<dc:format>hoogte 250 MMmmmm</dc:format>
+			<dc:format>breedte 205 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: rood krijt</dc:format>
+			<dc:creator> tekenaar: Cooghen, Leendert van der</dc:creator>
+			<dc:coverage/>
+			<dc:creator>verworpen toeschrijving tekenaar: Borch, Gerard ter (II)</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>David met het hoofd van Goliath</dc:title>
+			<dc:coverage>tweede kwart 17e eeuw</dc:coverage>
+			<dc:coverage>derde kwart 17e eeuw</dc:coverage>
+			<dc:coverage>vierde kwart 17e eeuw</dc:coverage>
+			<dc:subject>Iconclasscode: 71H145</dc:subject>
+			<dc:contributor>Aankoop met steun van de Vereniging Rembrandt</dc:contributor>
+		</oai_dc:dc>
+	</metadata>
+</record>

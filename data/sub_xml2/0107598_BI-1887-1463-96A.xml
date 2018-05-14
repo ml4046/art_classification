@@ -1,0 +1,32 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:BI-1887-1463-96A</identifier>
+		<datestamp>2012-10-26T16:01:40Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=BI-1887-1463-96A</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/BI-1887-1463-96A</dc:format>
+			<dc:identifier>BI-1887-1463-96A</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.477285</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>ca. 1656-09-07 - ca. 1656-09-07</dc:date>
+			<dc:description>De Dood dansend naast een meisje. Links op de voorgrond is het graf van het meisje te zien met de datum waarop de tekening gemaakt is of waarop het meisje is gestorven. Rechts loopt een lange begrafenisstoet naar de ingang van een kerk.</dc:description>
+			<dc:format>beeld: hoogte 134 MMmmmm</dc:format>
+			<dc:format>beeld: breedte 150 MMmmmm</dc:format>
+			<dc:format>blad: hoogte 243 MMmmmm</dc:format>
+			<dc:format>blad: breedte 360 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>materiaal: waterverf</dc:format>
+			<dc:format>techniek: aquarelleren</dc:format>
+			<dc:creator> tekenaar: Borch, Gesina ter</dc:creator>
+			<dc:coverage>Zwolle</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Dood naast een klein meisje</dc:title>
+			<dc:contributor>Aankoop met steun van de Vereniging Rembrandt</dc:contributor>
+			<dc:relation>BI-1887-1463</dc:relation>
+		</oai_dc:dc>
+	</metadata>
+</record>

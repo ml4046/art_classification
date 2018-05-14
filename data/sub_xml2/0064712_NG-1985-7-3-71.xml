@@ -1,0 +1,28 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:NG-1985-7-3-71</identifier>
+		<datestamp>2012-10-26T13:33:40Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=NG-1985-7-3-71</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/NG-1985-7-3-71</dc:format>
+			<dc:identifier>NG-1985-7-3-71</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.226991</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1784 -  1785</dc:date>
+			<dc:description>Woeling van vechtende ruiters op rennende, vallende en steigerende paarden. Verso emblemen die verwijzen naar de politieke toestand in de jaren 1784-85. Bovenaan een zwaard met afgebroken punt, ganzeveer, leeuw binnen krans en monogram VOC. Links onder een verbeelding van Brandes' persoonlijk misnoegen: een man in habijt schrijft in een boek met rechts naast hem een jongen. Rechts onder een vrijheidslans waarop hoed en mercuriusstaf naast een boom. Achter een schip.</dc:description>
+			<dc:format>hoogte 141 MMmmmm</dc:format>
+			<dc:format>breedte 208 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: pen in bruin</dc:format>
+			<dc:creator> tekenaar: Brandes, Jan</dc:creator>
+			<dc:coverage>Jakarta</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Ruiterslag / Allegorie op de Engels oorlog</dc:title>
+			<dc:coverage>vierde kwart 18e eeuw</dc:coverage>
+		</oai_dc:dc>
+	</metadata>
+</record>

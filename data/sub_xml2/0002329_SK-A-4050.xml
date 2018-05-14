@@ -1,0 +1,32 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:SK-A-4050</identifier>
+		<datestamp>2012-10-26T09:51:27Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=SK-A-4050</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/SK-A-4050</dc:format>
+			<dc:identifier>SK-A-4050</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.5280</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1661 -  1661</dc:date>
+			<dc:description>Zelfportret van Rembrandt als de apostel Paulus. Ten halven lijve naar links, het gelaat naar de kijker gewend. Met openstaande mantel die zicht geeft op het zwaard dat op de borst wordt gedragen, op het hoofd een witte tulband. In de handen een opengevouwen bundel zendbrieven.</dc:description>
+			<dc:format>hoogte 91 CMcmcm</dc:format>
+			<dc:format>breedte 77 CMcmcm</dc:format>
+			<dc:format>materiaal: doek</dc:format>
+			<dc:format>materiaal: olieverf</dc:format>
+			<dc:creator> schilder: Rembrandt Harmensz. van Rijn</dc:creator>
+			<dc:coverage/>
+			<dc:type>schilderij</dc:type>
+			<dc:title>Zelfportret als de apostel Paulus</dc:title>
+			<dc:coverage>derde kwart 17e eeuw</dc:coverage>
+			<dc:subject>Rembrandt Harmensz. van Rijn</dc:subject>
+			<dc:subject>Iconclasscode: 11H(PAUL)9</dc:subject>
+			<dc:subject>Iconclasscode: 48C513</dc:subject>
+			<dc:contributor>Schenking van de heer en mevrouw De Bruijn-van der Leeuw, Muri</dc:contributor>
+		</oai_dc:dc>
+	</metadata>
+</record>

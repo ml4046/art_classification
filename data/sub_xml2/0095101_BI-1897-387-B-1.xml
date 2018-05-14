@@ -1,0 +1,37 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:BI-1897-387-B-1</identifier>
+		<datestamp>2012-10-26T15:24:07Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=BI-1897-387-B-1</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/BI-1897-387-B-1</dc:format>
+			<dc:identifier>BI-1897-387-B-1</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.443968</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1731-07-08 -  1731-07-08</dc:date>
+			<dc:description>Hofstede Boelenstein bij Maarssen gezien vanaf de zijkant met rechts de voorgevel met ingang en brug over de gracht.</dc:description>
+			<dc:format>blad: hoogte 135 MMmmmm</dc:format>
+			<dc:format>blad: breedte 214 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: loodstift</dc:format>
+			<dc:format>techniek: pen in bruin</dc:format>
+			<dc:format>techniek: penseel in grijs</dc:format>
+			<dc:creator> tekenaar: Haen, Abraham de (II)</dc:creator>
+			<dc:coverage>Hofstede Boelenstein (Maarssen)</dc:coverage>
+			<dc:creator>verworpen toeschrijving tekenaar: Pronk, Cornelis</dc:creator>
+			<dc:coverage/>
+			<dc:type>schetsboek</dc:type>
+			<dc:type>tekening</dc:type>
+			<dc:title>Hofstede Boelenstein bij Maarssen</dc:title>
+			<dc:coverage>derde kwart 18e eeuw</dc:coverage>
+			<dc:subject>Hofstede Boelenstein (Maarssen)</dc:subject>
+			<dc:subject>Iconclasscode: 41A12</dc:subject>
+			<dc:contributor>Schenking van A.N. Godefroy</dc:contributor>
+			<dc:relation>BI-1897-387-B</dc:relation>
+		</oai_dc:dc>
+	</metadata>
+</record>

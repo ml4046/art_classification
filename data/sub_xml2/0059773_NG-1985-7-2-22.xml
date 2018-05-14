@@ -1,0 +1,31 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:NG-1985-7-2-22</identifier>
+		<datestamp>2012-10-26T13:18:27Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=NG-1985-7-2-22</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/NG-1985-7-2-22</dc:format>
+			<dc:identifier>NG-1985-7-2-22</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.163165</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1770 -  1778</dc:date>
+			<dc:description>Kleurtekening van de herberg op de hoogte van Montferland met naaste omgeving van tuin met groenten. De herberg is in vakwerk en heeft een rieten dak. Voor de herberg twee huifkarren. Met opschrift.</dc:description>
+			<dc:format>hoogte 155 MMmmmm</dc:format>
+			<dc:format>breedte 195 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: penseel in kleuren</dc:format>
+			<dc:format>techniek: potlood</dc:format>
+			<dc:creator> tekenaar: Brandes, Jan</dc:creator>
+			<dc:coverage>Montferland</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Herberg of jagershuis op de Montferberg</dc:title>
+			<dc:coverage>derde kwart 18e eeuw</dc:coverage>
+			<dc:coverage>vierde kwart 18e eeuw</dc:coverage>
+			<dc:relation>NG-1985-7-2</dc:relation>
+		</oai_dc:dc>
+	</metadata>
+</record>

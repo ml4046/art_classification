@@ -1,0 +1,39 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1896-A-3126</identifier>
+		<datestamp>2012-10-26T13:43:51Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1896-A-3126</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1896-A-3126</dc:format>
+			<dc:identifier>RP-T-1896-A-3126</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.238711</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1749 -  1757</dc:date>
+			<dc:format>hoogte 180 MMmmmm</dc:format>
+			<dc:format>breedte 269 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>materiaal: waterverf</dc:format>
+			<dc:format>techniek: aquarelleren</dc:format>
+			<dc:format>techniek: penseel in waterverf in kleuren</dc:format>
+			<dc:format>techniek: pen in grijs</dc:format>
+			<dc:creator>mogelijk tekenaar: Pronk, Cornelis</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>Het Hof van Putten en de kerk van Geervliet</dc:title>
+			<dc:coverage>tweede kwart 18e eeuw</dc:coverage>
+			<dc:coverage>derde kwart 18e eeuw</dc:coverage>
+			<dc:subject>Hof van Putten</dc:subject>
+			<dc:subject>Geervliet</dc:subject>
+			<dc:subject>Iconclasscode: 61F(HOF VAN PUTTEN)</dc:subject>
+			<dc:subject>Iconclasscode: 61E(GEERVLIET)</dc:subject>
+			<dc:subject>Iconclasscode: 61D(PUTTEN)</dc:subject>
+			<dc:subject>Iconclasscode: 11Q712</dc:subject>
+			<dc:subject>Iconclasscode: 41A12</dc:subject>
+			<dc:subject>Iconclasscode: 41A16</dc:subject>
+		</oai_dc:dc>
+	</metadata>
+</record>

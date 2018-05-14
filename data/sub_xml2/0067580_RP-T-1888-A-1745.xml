@@ -1,0 +1,33 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1888-A-1745</identifier>
+		<datestamp>2012-10-26T13:43:46Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1888-A-1745</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1888-A-1745</dc:format>
+			<dc:identifier>RP-T-1888-A-1745</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.238657</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1701 -  1759</dc:date>
+			<dc:format>hoogte 128 MMmmmm</dc:format>
+			<dc:format>breedte 201 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: pen in grijs</dc:format>
+			<dc:format>techniek: ondertekening in potlood</dc:format>
+			<dc:creator> tekenaar: Pronk, Cornelis</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>Kerk in het dorp Wijngaarden, Alblasserwaard</dc:title>
+			<dc:subject>Alblasserwaard</dc:subject>
+			<dc:subject>Wijngaarden</dc:subject>
+			<dc:subject>Iconclasscode: 61E(WIJNGAARDEN)</dc:subject>
+			<dc:subject>Iconclasscode: 61D(ALBLASSERWAARD)</dc:subject>
+			<dc:subject>Iconclasscode: 11Q712</dc:subject>
+			<dc:subject>Iconclasscode: 25I21</dc:subject>
+		</oai_dc:dc>
+	</metadata>
+</record>

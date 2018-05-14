@@ -1,0 +1,30 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:SK-A-3029</identifier>
+		<datestamp>2012-10-26T09:51:38Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=SK-A-3029</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/SK-A-3029</dc:format>
+			<dc:identifier>SK-A-3029</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.5358</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>na 1645 - after 1645</dc:date>
+			<dc:description>Gezicht op de Rijn en de Elterberg. Op het water een veerpont en enkele andere vaartuigen, op de oever op de voorgrond enkele koeien.</dc:description>
+			<dc:format>drager: hoogte 32.3 CMcmcm</dc:format>
+			<dc:format>drager: breedte 40.4 CMcmcm</dc:format>
+			<dc:format>materiaal: paneel</dc:format>
+			<dc:format>materiaal: olieverf</dc:format>
+			<dc:creator>manier van schilder: Goyen, Jan van</dc:creator>
+			<dc:coverage/>
+			<dc:creator>verworpen toeschrijving schilder: Saftleven, Herman</dc:creator>
+			<dc:coverage/>
+			<dc:type>schilderij</dc:type>
+			<dc:title>Gezicht op de Rijn en de Elterberg</dc:title>
+			<dc:contributor>Legaat van S. van der Horst, Haarlem</dc:contributor>
+		</oai_dc:dc>
+	</metadata>
+</record>

@@ -1,0 +1,32 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:SK-A-3934</identifier>
+		<datestamp>2012-10-26T09:51:20Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=SK-A-3934</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/SK-A-3934</dc:format>
+			<dc:identifier>SK-A-3934</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.5232</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>ca. 1629 - ca. 1630</dc:date>
+			<dc:description>Borstbeeld van een lachende jonge man. Naar rechts, het hoofd bijna en face, op het hoofd een baret. Vroeger beschouwd als een zelfportret van Rembrandt.</dc:description>
+			<dc:format>drager: hoogte 41.2 CMcmcm</dc:format>
+			<dc:format>drager: breedte 33.8 CMcmcm</dc:format>
+			<dc:format>dragrer incl. lijst: diepte 4 CMcmcm</dc:format>
+			<dc:format>materiaal: paneel</dc:format>
+			<dc:format>materiaal: eikenhout</dc:format>
+			<dc:format>materiaal: olieverf</dc:format>
+			<dc:creator>omgeving van schilder: Rembrandt Harmensz. van Rijn</dc:creator>
+			<dc:coverage/>
+			<dc:type>schilderij</dc:type>
+			<dc:title>Borstbeeld van een lachende jonge man  ()</dc:title>
+			<dc:title>Zelfportret  (voormalige titel)</dc:title>
+			<dc:coverage>tweede kwart 17e eeuw</dc:coverage>
+			<dc:contributor>Aankoop met steun van de Vereniging Rembrandt</dc:contributor>
+		</oai_dc:dc>
+	</metadata>
+</record>

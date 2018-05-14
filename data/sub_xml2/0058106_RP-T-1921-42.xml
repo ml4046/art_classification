@@ -1,0 +1,36 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1921-42</identifier>
+		<datestamp>2012-10-26T13:13:39Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1921-42</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1921-42</dc:format>
+			<dc:identifier>RP-T-1921-42</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.158594</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1753 -  1753</dc:date>
+			<dc:format>hoogte 174 MMmmmm</dc:format>
+			<dc:format>breedte 194 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: aquarelleren</dc:format>
+			<dc:format>techniek: pen in bruin en grijs</dc:format>
+			<dc:format>techniek: penseel in kleuren</dc:format>
+			<dc:creator> tekenaar: Bruyn, Johanna de</dc:creator>
+			<dc:coverage/>
+			<dc:creator> naar tekening van: Beijer, Jan de</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>Nieuwstraat in Utrecht met gezicht op de Domtoren</dc:title>
+			<dc:coverage>derde kwart 18e eeuw</dc:coverage>
+			<dc:subject>Nieuwstraat (Utrecht)</dc:subject>
+			<dc:subject>Domtoren (Utrecht)</dc:subject>
+			<dc:subject>Iconclasscode: 61E(UTRECHT)</dc:subject>
+			<dc:subject>Iconclasscode: 61F(NIEUWSTRAAT)</dc:subject>
+			<dc:contributor>Legaat van de heer J.G. de Groot Jamin, Amsterdam</dc:contributor>
+		</oai_dc:dc>
+	</metadata>
+</record>

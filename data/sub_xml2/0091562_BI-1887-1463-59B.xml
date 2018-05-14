@@ -1,0 +1,33 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:BI-1887-1463-59B</identifier>
+		<datestamp>2012-10-26T15:11:44Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=BI-1887-1463-59B</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/BI-1887-1463-59B</dc:format>
+			<dc:identifier>BI-1887-1463-59B</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.430535</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1657 -  1657</dc:date>
+			<dc:format>blad: hoogte 175 MMmmmm</dc:format>
+			<dc:format>blad: breedte 130 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>materiaal: waterverf</dc:format>
+			<dc:format>materiaal: pen (veer)</dc:format>
+			<dc:format>materiaal: inkt</dc:format>
+			<dc:format>techniek: penseel</dc:format>
+			<dc:format>techniek: aquarelleren</dc:format>
+			<dc:creator>eigenhandig gesigneerd tekenaar: Borch, Gesina ter</dc:creator>
+			<dc:coverage>Zwolle</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Staande broeder</dc:title>
+			<dc:coverage>derde kwart 17e eeuw</dc:coverage>
+			<dc:contributor>Aankoop met steun van de Vereniging Rembrandt</dc:contributor>
+			<dc:relation>BI-1887-1463-59</dc:relation>
+		</oai_dc:dc>
+	</metadata>
+</record>

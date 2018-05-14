@@ -1,0 +1,36 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1991-2</identifier>
+		<datestamp>2012-10-26T11:11:48Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1991-2</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1991-2</dc:format>
+			<dc:identifier>RP-T-1991-2</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.53934</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1712 -  1795</dc:date>
+			<dc:format>hoogte 202 MMmmmm</dc:format>
+			<dc:format>breedte 155 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>materiaal: waterverf</dc:format>
+			<dc:format>techniek: pen in grijs</dc:format>
+			<dc:format>techniek: penseel in grijs</dc:format>
+			<dc:format>techniek: schets in grafiet</dc:format>
+			<dc:creator> tekenaar: Jelgersma, Tako Hajo</dc:creator>
+			<dc:coverage/>
+			<dc:creator> naar tekening van: Pronk, Cornelis</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>Portret van Simon Eikelenberg</dc:title>
+			<dc:subject>Eikelenberg, Symon</dc:subject>
+			<dc:subject>Iconclasscode: 61B2(EIKELENBERG, SYMON)11</dc:subject>
+			<dc:subject>Iconclasscode: 48C523</dc:subject>
+			<dc:subject>Iconclasscode: 48C513</dc:subject>
+			<dc:subject>Iconclasscode: 48B3</dc:subject>
+		</oai_dc:dc>
+	</metadata>
+</record>

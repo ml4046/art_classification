@@ -1,0 +1,35 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1900-A-4356</identifier>
+		<datestamp>2012-10-26T11:18:40Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1900-A-4356</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1900-A-4356</dc:format>
+			<dc:identifier>RP-T-1900-A-4356</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.60231</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1619 -  1685</dc:date>
+			<dc:format>hoogte 107 MMmmmm</dc:format>
+			<dc:format>breedte 153 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: zwart krijt</dc:format>
+			<dc:format>techniek: penseel in bruin</dc:format>
+			<dc:creator> tekenaar: Saftleven, Herman</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>St. Petronella's kapel in De Bilt</dc:title>
+			<dc:coverage>eerste kwart 17e eeuw</dc:coverage>
+			<dc:coverage>tweede kwart 17e eeuw</dc:coverage>
+			<dc:coverage>derde kwart 17e eeuw</dc:coverage>
+			<dc:coverage>vierde kwart 17e eeuw</dc:coverage>
+			<dc:subject>Sint Petronella's kapel (De Bilt)</dc:subject>
+			<dc:subject>Iconclasscode: 11QQ712</dc:subject>
+			<dc:subject>Iconclasscode: 61E(DE BILT)</dc:subject>
+			<dc:subject>Iconclasscode: 61F(ST.-PETRONELLA'S KAPEL)</dc:subject>
+		</oai_dc:dc>
+	</metadata>
+</record>

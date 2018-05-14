@@ -1,0 +1,116 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:BI-1897-387-C</identifier>
+		<datestamp>2012-10-26T14:11:00Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=BI-1897-387-C</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/BI-1897-387-C</dc:format>
+			<dc:identifier>BI-1897-387-C</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.312959</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1731 -  1731</dc:date>
+			<dc:description>Schetsboek met 83 bladen met schetsen van kastelen, ruïnes en buitenhuizen in Nederland. Boekband van perkament met steekflap</dc:description>
+			<dc:format>schetsboek: hoogte 117 MMmmmm</dc:format>
+			<dc:format>schetsboek: breedte 183 MMmmmm</dc:format>
+			<dc:format>schetsboek: diepte 22 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: pen in grijs</dc:format>
+			<dc:format>techniek: pen in zwart</dc:format>
+			<dc:format>techniek: pen in bruin</dc:format>
+			<dc:format>techniek: penseel in grijs</dc:format>
+			<dc:format>techniek: penseel in bruin</dc:format>
+			<dc:creator> tekenaar: Haen, Abraham de (II)</dc:creator>
+			<dc:coverage>Nederland</dc:coverage>
+			<dc:creator>verworpen toeschrijving tekenaar: Pronk, Cornelis</dc:creator>
+			<dc:coverage/>
+			<dc:type>schetsboek</dc:type>
+			<dc:type>tekening</dc:type>
+			<dc:title>Schetsboek met 83 bladen met schetsen van kastelen, ruïnes en buitenhuizen in Nederland</dc:title>
+			<dc:coverage>tweede kwart 18e eeuw</dc:coverage>
+			<dc:subject>Nederland</dc:subject>
+			<dc:subject>Iconclasscode: 25I3</dc:subject>
+			<dc:subject>Iconclasscode: 25I9</dc:subject>
+			<dc:subject>Iconclasscode: 41A12</dc:subject>
+			<dc:contributor>Schenking van A.N. Godefroy</dc:contributor>
+			<dc:relation>BI-1897-387-C-1</dc:relation>
+			<dc:relation>BI-1897-387-C-2</dc:relation>
+			<dc:relation>BI-1897-387-C-3</dc:relation>
+			<dc:relation>BI-1897-387-C-4</dc:relation>
+			<dc:relation>BI-1897-387-C-7</dc:relation>
+			<dc:relation>BI-1897-387-C-8</dc:relation>
+			<dc:relation>BI-1897-387-C-9</dc:relation>
+			<dc:relation>BI-1897-387-C-10</dc:relation>
+			<dc:relation>BI-1897-387-C-11</dc:relation>
+			<dc:relation>BI-1897-387-C-12</dc:relation>
+			<dc:relation>BI-1897-387-C-13</dc:relation>
+			<dc:relation>BI-1897-387-C-14</dc:relation>
+			<dc:relation>BI-1897-387-C-15</dc:relation>
+			<dc:relation>BI-1897-387-C-17</dc:relation>
+			<dc:relation>BI-1897-387-C-18</dc:relation>
+			<dc:relation>BI-1897-387-C-19</dc:relation>
+			<dc:relation>BI-1897-387-C-20</dc:relation>
+			<dc:relation>BI-1897-387-C-21</dc:relation>
+			<dc:relation>BI-1897-387-C-24</dc:relation>
+			<dc:relation>BI-1897-387-C-25</dc:relation>
+			<dc:relation>BI-1897-387-C-26</dc:relation>
+			<dc:relation>BI-1897-387-C-27</dc:relation>
+			<dc:relation>BI-1897-387-C-28</dc:relation>
+			<dc:relation>BI-1897-387-C-29</dc:relation>
+			<dc:relation>BI-1897-387-C-32</dc:relation>
+			<dc:relation>BI-1897-387-C-33</dc:relation>
+			<dc:relation>BI-1897-387-C-34</dc:relation>
+			<dc:relation>BI-1897-387-C-35</dc:relation>
+			<dc:relation>BI-1897-387-C-36</dc:relation>
+			<dc:relation>BI-1897-387-C-37</dc:relation>
+			<dc:relation>BI-1897-387-C-38</dc:relation>
+			<dc:relation>BI-1897-387-C-39</dc:relation>
+			<dc:relation>BI-1897-387-C-40</dc:relation>
+			<dc:relation>BI-1897-387-C-42</dc:relation>
+			<dc:relation>BI-1897-387-C-43</dc:relation>
+			<dc:relation>BI-1897-387-C-44</dc:relation>
+			<dc:relation>BI-1897-387-C-45</dc:relation>
+			<dc:relation>BI-1897-387-C-46</dc:relation>
+			<dc:relation>BI-1897-387-C-47</dc:relation>
+			<dc:relation>BI-1897-387-C-48</dc:relation>
+			<dc:relation>BI-1897-387-C-49</dc:relation>
+			<dc:relation>BI-1897-387-C-50</dc:relation>
+			<dc:relation>BI-1897-387-C-51</dc:relation>
+			<dc:relation>BI-1897-387-C-52</dc:relation>
+			<dc:relation>BI-1897-387-C-53</dc:relation>
+			<dc:relation>BI-1897-387-C-54</dc:relation>
+			<dc:relation>BI-1897-387-C-55</dc:relation>
+			<dc:relation>BI-1897-387-C-56</dc:relation>
+			<dc:relation>BI-1897-387-C-57</dc:relation>
+			<dc:relation>BI-1897-387-C-58</dc:relation>
+			<dc:relation>BI-1897-387-C-59</dc:relation>
+			<dc:relation>BI-1897-387-C-60</dc:relation>
+			<dc:relation>BI-1897-387-C-61</dc:relation>
+			<dc:relation>BI-1897-387-C-62</dc:relation>
+			<dc:relation>BI-1897-387-C-63</dc:relation>
+			<dc:relation>BI-1897-387-C-64</dc:relation>
+			<dc:relation>BI-1897-387-C-65</dc:relation>
+			<dc:relation>BI-1897-387-C-66</dc:relation>
+			<dc:relation>BI-1897-387-C-67</dc:relation>
+			<dc:relation>BI-1897-387-C-68</dc:relation>
+			<dc:relation>BI-1897-387-C-69</dc:relation>
+			<dc:relation>BI-1897-387-C-70</dc:relation>
+			<dc:relation>BI-1897-387-C-71</dc:relation>
+			<dc:relation>BI-1897-387-C-72</dc:relation>
+			<dc:relation>BI-1897-387-C-73</dc:relation>
+			<dc:relation>BI-1897-387-C-74</dc:relation>
+			<dc:relation>BI-1897-387-C-75</dc:relation>
+			<dc:relation>BI-1897-387-C-76</dc:relation>
+			<dc:relation>BI-1897-387-C-77</dc:relation>
+			<dc:relation>BI-1897-387-C-78</dc:relation>
+			<dc:relation>BI-1897-387-C-41</dc:relation>
+			<dc:relation>BI-1897-387-C-22-TM-23</dc:relation>
+			<dc:relation>BI-1897-387-C-30-TM-31</dc:relation>
+			<dc:relation>BI-1897-387-C-5-TM-6</dc:relation>
+			<dc:relation>BI-1897-387-C-16</dc:relation>
+		</oai_dc:dc>
+	</metadata>
+</record>

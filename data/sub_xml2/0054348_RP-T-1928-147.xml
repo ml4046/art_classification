@@ -1,0 +1,32 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:RP-T-1928-147</identifier>
+		<datestamp>2012-10-26T13:02:43Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=RP-T-1928-147</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/RP-T-1928-147</dc:format>
+			<dc:identifier>RP-T-1928-147</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.145197</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1743-09-24 -  1743-09-24</dc:date>
+			<dc:format>hoogte 158 MMmmmm</dc:format>
+			<dc:format>breedte 210 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: pen in grijs</dc:format>
+			<dc:format>techniek: penseel in grijs</dc:format>
+			<dc:creator> tekenaar: Beijer, Jan de</dc:creator>
+			<dc:coverage/>
+			<dc:type>tekening</dc:type>
+			<dc:title>Ruïne van de kerk te Mill</dc:title>
+			<dc:coverage>tweede kwart 18e eeuw</dc:coverage>
+			<dc:subject>Mill</dc:subject>
+			<dc:subject>Iconclasscode: 11Q712</dc:subject>
+			<dc:subject>Iconclasscode: 61E(MILL)</dc:subject>
+			<dc:contributor>Schenking van mevrouw M.L. van Hoorn, Amsterdam, mevrouw H.C. van Hoorn, Amsterdam en de heer P.H.F. van Hoorn, Amsterdam</dc:contributor>
+		</oai_dc:dc>
+	</metadata>
+</record>

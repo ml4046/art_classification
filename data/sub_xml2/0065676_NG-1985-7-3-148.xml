@@ -1,0 +1,30 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:NG-1985-7-3-148</identifier>
+		<datestamp>2012-10-26T13:36:05Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=NG-1985-7-3-148</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/NG-1985-7-3-148</dc:format>
+			<dc:identifier>NG-1985-7-3-148</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.231565</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1780-06-07 -  1785-08-26</dc:date>
+			<dc:description>De Chinese begraafplaats bij Brandes' huis buiten Batavia. De VOC bestuurt de Chinezen in Batavia door middel van Chinese voormannen waarvan de voornaamste de 'kapitein Chinees' is, daarna diens luitenants.</dc:description>
+			<dc:format>hoogte 275 MMmmmm</dc:format>
+			<dc:format>breedte 430 MMmmmm</dc:format>
+			<dc:format>materiaal: papier</dc:format>
+			<dc:format>techniek: penseel in grijs</dc:format>
+			<dc:format>techniek: potlood</dc:format>
+			<dc:creator> tekenaar: Brandes, Jan</dc:creator>
+			<dc:coverage>Batavia</dc:coverage>
+			<dc:type>tekening</dc:type>
+			<dc:title>Chinese begraafplaats met graf van luitenant Kouw Tjanko  ()</dc:title>
+			<dc:title>Chineese Begraffplaatz van den Lieutenant Kouw Tjanko  (titel op object)</dc:title>
+			<dc:coverage>vierde kwart 18e eeuw</dc:coverage>
+		</oai_dc:dc>
+	</metadata>
+</record>

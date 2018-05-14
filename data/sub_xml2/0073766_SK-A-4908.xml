@@ -1,0 +1,40 @@
+<record>
+	<header>
+		<identifier>oai:rijksmuseum.nl/collection:SK-A-4908</identifier>
+		<datestamp>2012-10-26T14:07:53Z</datestamp>
+	</header>
+	<metadata>
+		<oai_dc:dc>
+			<dc:format>https://www.rijksmuseum.nl/assetimage2.jsp?id=SK-A-4908</dc:format>
+			<dc:format>https://www.rijksmuseum.nl/nl/collectie/SK-A-4908</dc:format>
+			<dc:identifier>SK-A-4908</dc:identifier>
+			<dc:identifier>RM0001.COLLECT.309349</dc:identifier>
+			<dc:language>Dutch</dc:language>
+			<dc:publisher>Rijksmuseum</dc:publisher>
+			<dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+			<dc:date>1667 -  1669</dc:date>
+			<dc:description>Portret ten voeten uit. Moses ter Borch is gekleed in zijn militair tenue. Hij staat, leunend op een wandelstok voor een gedeeltelijk begroeide rots. Links is iets van de achtergrond te zien. Om hem heen zijn diverse dieren en gebruiksvoorwerpen afgebeeld die naar zijn militaire carriere verwijzen of trouw en vergankelijkheid symboliseren (honden, schedel, wapenrusting, horloge, slang etc.).</dc:description>
+			<dc:format>drager: hoogte 76.2 CMcmcm</dc:format>
+			<dc:format>drager: breedte 56.5 CMcmcm</dc:format>
+			<dc:format>materiaal: doek</dc:format>
+			<dc:format>materiaal: olieverf</dc:format>
+			<dc:format>techniek: schilderen</dc:format>
+			<dc:creator> schilder: Borch, Gerard ter (II)</dc:creator>
+			<dc:coverage/>
+			<dc:creator> schilder: Borch, Gesina ter</dc:creator>
+			<dc:coverage/>
+			<dc:type>schilderij</dc:type>
+			<dc:title>Memorieportret van Moses ter Borch (1645-1667).</dc:title>
+			<dc:coverage>derde kwart 17e eeuw</dc:coverage>
+			<dc:subject>Borch, Moses ter</dc:subject>
+			<dc:subject>Iconclasscode: 61B2(+55)</dc:subject>
+			<dc:subject>Iconclasscode: 23U22</dc:subject>
+			<dc:subject>Iconclasscode: 34B11</dc:subject>
+			<dc:subject>Iconclasscode: 31F11</dc:subject>
+			<dc:subject>Iconclasscode: 45C221</dc:subject>
+			<dc:subject>Iconclasscode: 25F711(BUTTERFLY)</dc:subject>
+			<dc:subject>Iconclasscode: 25F72(SNAIL)</dc:subject>
+			<dc:contributor>Aankoop met steun van de Rijksmuseum-Stichting</dc:contributor>
+		</oai_dc:dc>
+	</metadata>
+</record>
